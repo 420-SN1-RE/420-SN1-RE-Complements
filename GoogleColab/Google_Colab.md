@@ -52,7 +52,7 @@ Par exemple, pour notre premier notebook pour la semaine 1, on pourrait le nomme
 
 ![Premier](./Images_Google_Colab/google_colab_08_premier.png)
 
-Il ne semble pas y avoir un standard pour l'utilisation entre les séparateurs '_' et '-' mais il est fortement recommandé de ne pas utiliser un espace comme séparateur.
+Chaque mot est séparé par un '_' ou par un '-'. Il ne semble pas y avoir un standard. Vous pouvez choisir l'un ou l'autre mais il est fortement recommandé de ne pas utiliser un espace comme séparateur.
 
 ### Écrire notre première ligne de code
 
