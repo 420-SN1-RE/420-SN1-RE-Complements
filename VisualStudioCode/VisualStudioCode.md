@@ -7,7 +7,7 @@
 ## Visual Studio Code
 
 Visual Studio Code (VS Code) est un éditeur de code extensible développé par Microsoft pour Windows, Linux et macOS.[^1]
-Il est léger mais puissant. Il permet aussi l'édition des fichiers ipynb. 
+Il est léger mais puissant. Il permet aussi l'édition des fichiers ipynb. Il est quand même préférable d'utiliser Google Colab surtout au collège.
 
 [^1]: https://fr.wikipedia.org/wiki/Visual_Studio_Code.
 
@@ -43,7 +43,7 @@ Quand vous lancez l'éditeur, vous allez remarquer que les menus sont en anglais
 
 ![VSCode](./Images_VS_Code/VS_Code_06_VSCode.png)
 
-Puis, ouvrez le dossier qui contient vos notebooks.
+Puis, ouvrez le dossier qui contient vos notebooks.  
 ![VSCode](./Images_VS_Code/VS_Code_07_VSCode.png)
 
 Vous allez probablement voir un message qui vous recommande d'installer l'extension pour Python. Faites-le
@@ -59,7 +59,9 @@ Un fichier Python est un fichier texte qui contient du code python. Il ne peut p
 Il est possible qu'on vous demande d'installer un package
 ![VSCode](./Images_VS_Code/VS_Code_10_package.png)
 
-![VSCode](./Images_VS_Code/VS_Code_12_numpy.png)
+### Avancé ###
+#### Quand vous utiliserez des modules plus avancés ####
+![VSCode](./Images_VS_Code/VS_Code_12_numpy.png)  
 Malheureusement, VS Code n'installe pas tous les modules comme Google Colab. Il faut le faire soi-même. Ouvrir un terminal (Menu Terminal / Nouveau terminal) et tapez "pip install le_nom_du_module"
 
 ![VSCode](./Images_VS_Code/VS_Code_13_numpy.png)
