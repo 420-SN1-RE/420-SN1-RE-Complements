@@ -1,8 +1,8 @@
-#### Programmation en sciences
-#### 420-SN1-RE
-#### Éric Wenaas
-#### Georges Côté
-
+<h3 style='text-align: right;'>Programmation en sciences
+<br>420-SN1-RE
+<br>Éric Wenaas
+<br>Georges Côté
+</h3>
 
 ## Les normes
 
