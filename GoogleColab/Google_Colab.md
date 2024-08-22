@@ -37,7 +37,7 @@ Par défaut, le nom est quelque chose comme Untitled0.ipynb (interactive python 
 
 ![Créer un notebook](./Images_Google_Colab/google_colab_06_untitled.png)
 
-Le notebook est sauvegardé dans le dossier "Colab Notebooks" dans votre Google Drive.
+Vous devez vous assurer de bien organiser vos fichiers. Par défaut, quand on crée un nouveau notebook, il est sauvegardé dans le dossier "Colab Notebooks" dans votre Google Drive.
 
 Vous pouvez le renommner.
 
