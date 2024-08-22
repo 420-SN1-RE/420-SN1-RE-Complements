@@ -39,20 +39,16 @@ Par défaut, le nom est quelque chose comme Untitled0.ipynb (interactive python 
 
 Vous devez vous assurer de bien organiser vos fichiers. Par défaut, quand on crée un nouveau notebook, il est sauvegardé dans le dossier "Colab Notebooks" dans votre Google Drive.
 
-Vous pouvez le renommner.
+Vous pouvez le renommer et, surtout, le déplacer. Vous devriez vous créer un sous-dossier 420-SN1-RE et garder vos fichiers dans ce dossier.
 
 ![Renommer](./Images_Google_Colab/google_colab_07_renommer.png)
 
-### Suggestions pour le nom des fichiers
-Vous allez créer plusieurs notebooks pendant vos études collégiales et universitaires et vous devez être bien organisé pour retrouver le bon fichier rapidement.
+Des suggestions de noms pour vos fichiers vous seront données en classe.
 
-Pour ce cours-ci, vous pouvez utiliser le préfixe 420_SN1_XX (420 étant le code pour Informatique) ou même Info_SN1_XX et où XX est remplacé pour le numéro de la semaine.
+### Créer un notebook à partir de Google Drive
+Déplacez-vous dans le bon dossier et cliquez avec le bouton de droite de la souris.
+![Bonjour](./Images_Google_Colab/google_colab_08_drive.png). 
 
-Par exemple, pour notre premier notebook pour la semaine 1, on pourrait le nommer Info_SN1_01_premier_notebook.ipynb.
-
-![Premier](./Images_Google_Colab/google_colab_08_premier.png)
-
-Chaque mot est séparé par un '_' ou par un '-'. Il ne semble pas y avoir un standard. Vous pouvez choisir l'un ou l'autre mais il est fortement recommandé de ne pas utiliser un espace comme séparateur.
 
 ### Écrire notre première ligne de code
 
