@@ -20,6 +20,14 @@ Appuyez sur **Connexion**
 
 ![Créer un compte](./Images_Google_Colab/google_colab_03_se_connecter.png)
 
+### Activation de Google Colab dans Google Drive
+Si jamais vous n'avez pas les droits d'utiliser Google Colab, il est possible qu'il ne soit pas activé dans Google Drive.
+Allez à [Google Drive](drive.google.com), connectez-vous puis cliquez sur *Paramètres*
+![Paramètres](./Images_Google_Colab/google_colab_activation_colab.png)  
+
+![Paramètres](./Images_Google_Colab/google_colab_activation_colab_2.png)
+
+Une fois connecté, vous devriez voir ceci
 
 ![Créer un notebook](./Images_Google_Colab/google_colab_04_ouvrir_le_notebook.png)
 
