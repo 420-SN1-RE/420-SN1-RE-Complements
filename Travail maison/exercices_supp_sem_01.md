@@ -2,12 +2,12 @@
 
 ### Question 1
 Bon, ce n'est pas un problème de nature scientifique mais c'est pratique.
-Vous allez faire des achats pour $120. La personne à la caisse vous annonce que vous avez droit à un rabais de 15%
+Vous allez faire des achats pour $120. La personne à la caisse vous annonce que vous avez droit à un rabais de 15%.  
 Écrivez un petit programme qui affiche le montant original, le rabais et le montant final.  
 Par exemple
->Le montant original est  120
->Le rabais est  18.0
->Le montant final est  102.0
+>Le montant original est  120  
+>Le rabais est  18.0  
+>Le montant final est  102.0  
   
 Si vous voulez être plus interactif, vous pouvez utiliser
 >montant = float(input("Saisir le montant: "))  
@@ -71,7 +71,7 @@ En python, il est facile de faire cette opération sans utiliser une variable te
 Saisir le rayon d'un cercle et calculer l'aire du cercle. Utilisez 3.1416 pour pi  
 Aire d'un cercle $= \pi r^2$  
 
->Saisir le rayon: 2
+>Saisir le rayon: 2  
 >L'aire du cercle est 12.5664  
 
 
