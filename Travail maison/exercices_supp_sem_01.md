@@ -30,7 +30,23 @@ Calculez le montant final de la facture, i.e. la somme de
 + TVQ (9,975%)
 + TPS (5%)
 + pourboire
+
+Si vous utilisez 100 et 15, vous devriez obtenir
+>Le montant original est 100  
+>Le montant du pourboire est 15.0  
+>Le montant de la TVQ est 9.975000000000001  
+>Le montant du TPS est 5.0  
+>Le montant final est 129.975  
   
+Utilisez _round_ pour arrondir à deux chiffres.
+
+>Le montant original est 100
+>Le montant du pourboire est 15.0
+>Le montant de la TVQ est 9.98
+>Le montant du TPS est 5.0
+>Le montant final est 129.97
+
+Voici un cas d'erreur d'arrondi (129,97 au lieu de 129.98)
 
 ### Question 2
 Échangez le contenu de deux variables
@@ -53,7 +69,7 @@ En python, il est facile de faire cette opération sans utiliser une variable te
 
 ### Question 3
 Saisir le rayon d'un cercle et calculer l'aire du cercle. Utilisez 3.1416 pour pi
-Aire d'un cercle $= \pi R^2$
+Aire d'un cercle $= \pi r^2$
 
 >Saisir le rayon: 2
 >L'aire du cercle est 12.5664
