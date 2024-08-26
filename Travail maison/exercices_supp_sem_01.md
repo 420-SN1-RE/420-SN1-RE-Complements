@@ -68,8 +68,8 @@ Pour réussir ceci, vous allez avoir besoin d'une variable intermédiaire. C'est
 En python, il est facile de faire cette opération sans utiliser une variable temporaire (réponse en classe) mais c'est toujours bon de savoir résoudre cela. 
 
 ### Question 3
-Saisir le rayon d'un cercle et calculer l'aire du cercle. Utilisez 3.1416 pour pi
-Aire d'un cercle $= \pi r^2$
+Saisir le rayon d'un cercle et calculer l'aire du cercle. Utilisez 3.1416 pour pi  
+Aire d'un cercle $= \pi r^2$  
 
 >Saisir le rayon: 2
 >L'aire du cercle est 12.5664  
