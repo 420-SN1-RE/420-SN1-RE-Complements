@@ -21,15 +21,15 @@ Vous allez obtenir ceci
 >Le montant final est  102.0  
 
 ### Question 1.5
-Calculez le pourboire à donner sur le montant de la facture (avant taxes). 
+Calculez le pourboire à donner sur le montant de la facture (un pourcentage du montant de la facture avant taxes). Utilisez 100 pour le montant et 15 pour le pourcentage du pourboire. Donc pour un montant de 100$, le pourboire serait $15.
 
 
 ### Question 1.5b
-Calculez le montant final de la facture, i.e. la somme de 
+Complétez la question 1.5 en calculant le montant final de la facture après taxes, i.e. la somme de 
 + montant de la facture 
-+ TVQ (9,975%)
-+ TPS (5%)
-+ pourboire
++ TVQ (9,975%) sur le montant original
++ TPS (5%) sur le montant original
++ pourboire (un pourcentage du montant original)
 
 Si vous utilisez 100 et 15, vous devriez obtenir
 >Le montant original est 100    
