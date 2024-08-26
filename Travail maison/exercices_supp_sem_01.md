@@ -1,4 +1,4 @@
-## Exercices supplémentaire Semaine 1
+## Exercices supplémentaires Semaine 1
 
 ### Question 1
 Bon, ce n'est pas un problème de nature scientifique mais c'est pratique.
