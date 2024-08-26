@@ -110,8 +110,8 @@ Disons qu'on veut afficher ce texte
 
 ![Code](./Images_Edition/Google_Colab_14_Texte.png)
 
-Premièrement, pour améliorer l'affichage de l'équation, on va tout simplement entourer le texte du signe  \$ pour indiquer qu'on veut du $\LaTeX$ 
-![Code](./Images_Edition/latex1.png)  
+Premièrement, pour améliorer l'affichage de l'équation, on va tout simplement entourer le texte du signe  \$ pour indiquer qu'on veut du $\LaTeX$   
+>![Code](./Images_Edition/latex1.png)  
 
 devient 
 
@@ -120,7 +120,7 @@ $ax^2 + bx + c = 0$
 Pour avoir le signe $\neq$, 
 on utilise 
 
-![Code](./Images_Edition/latex_neq.png)  
+>![Code](./Images_Edition/latex_neq.png)  
 
 Pour avoir le $ \in \mathbb{R}$, on utilise 
 >![Code](./Images_Edition/latex_appartient_reel.png)  
