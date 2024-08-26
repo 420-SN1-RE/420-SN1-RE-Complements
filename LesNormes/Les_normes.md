@@ -1,8 +1,8 @@
-<h3 style='text-align: right;'>Programmation en sciences
-<br>420-SN1-RE
-<br>Éric Wenaas
-<br>Georges Côté
-</h3>
+#### Programmation en sciences
+#### 420-SN1-RE
+#### Éric Wenaas
+#### Georges Côté
+
 
 ## Les normes
 
@@ -19,6 +19,20 @@ En informatique, nous avons nos propres règles. Évidemment, le code ne passera
 * *Recommandations sur la déclaration des variables*
 * *Recommandations sur l'écriture des instructions, des structures de contrôle et l'usage des parenthèses dans les expressions.*
 
+**Le même texte mais sans suivre certaines normes**
+
+*Les 
+règles de co
+dage s'articulent autour de plusieurs t__hèmes, LES plus cou_rants étant :*
+
+* *Le nommage et l'organisation des fichiers du code source*
+      * *le style d'indentation*
+    * *Les conventions de nommage, ou règles de nommage*
+ *Les commentaires et documentation du code source* * *Recommandations sur la déclaration des 
+  variables*
+* *Recommandations sur l'écriture des instructions,              des structures de contrôle et l'usage des parenthèses dans les expressions.*
+
+*C'est un peu plus difficile à lire*
 
 *Les règles de codage permettent d'assurer une meilleure lisibilité du code en utilisant le même style de codage et en évitant les constructions qui rendent le code difficile à lire ou à modifier. Elles permettent également d'éviter les erreurs liées au langage pouvant donner des résultats incorrects, pouvant entraîner des crashs systèmes ou des failles de sécurité. Certaines règles sont également liées aux buts poursuivis par le projet logiciel : portabilité, contraintes mémoires, criticité, etc.* [^1]
 
@@ -33,10 +47,10 @@ D'autres documents seront distribués car one ne peut pas tout couvrir ici.
 #### Indentation  
 En Python, l'indentation (ou décalage) est très important. PEP 8 recommande 4 espaces mais Google Colab utilise 2 espaces donc on utilisera 2 espaces. Quand on appuie sur la touche *tab*, ça convertit automatiquement à 2 espaces. Dans certains éditeurs, ça insére un vrai tab mais c'est à éviter le plus possible.
 
-Dans Google Colab, par défaut, c'est deux espaces
-![Paramètres](./Images_Normes/Normes_01_Parametres.png)
-Quand on édite un fichier dans Visual Studio Code, il détecte si on utilise 2 ou 4 espaces. On va quand même modifier la valeur par défaut.
-![Tabs](./Images_Normes/Normes_01_VSCode_tabs.png)
+Dans Google Colab, par défaut, c'est deux espaces  
+![Paramètres](./Images_Normes/Normes_01_Parametres.png)  
+Quand on édite un fichier dans Visual Studio Code, il détecte si on utilise 2 ou 4 espaces. On va quand même modifier la valeur par défaut.  
+![Tabs](./Images_Normes/Normes_01_VSCode_tabs.png)  
 
 #### Les espaces
 Dans certains cas, pour améliorer la lisibilté du code, on va ajouter les espaces
@@ -76,7 +90,7 @@ hypotenuse_au_carre = x * x + y * y
 
 #### Les variables
 
-Le nom d'une variable peut être très court (comme x et y) ou plus long pour mieux décrire ce qu'il contient (comme hypotenuse_au_carre). On peut utiliser des accents mais on va l'éviter..
+Le nom d'une variable peut être très court (comme x et y) ou plus long pour mieux décrire ce qu'il contient (comme hypotenuse_au_carre). On peut utiliser des accents mais on va **l'éviter**..
 
 Règles pour le nom des variables:
 
