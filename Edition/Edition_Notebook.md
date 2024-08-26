@@ -122,7 +122,9 @@ on utilise
 
 >![Code](./Images_Edition/latex_neq.png)  
 
-Pour avoir le $ \in \mathbb{R}$, on utilise 
+Pour avoir le 
+![Code](./Images_Edition/latex_appartient_reel_vrai.png),  
+on utilise 
 >![Code](./Images_Edition/latex_appartient_reel.png)  
 
 Finalement, pour avoir x = $\dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$, on utilise la fraction et la racine carrée.  
