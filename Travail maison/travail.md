@@ -1,12 +1,11 @@
 # Activités à réaliser
 
 ## Semaine 1
-| Faits en classe        | À faire à la maison    |
-|:----------------------:|:----------------------:|
-| Évaluation formative   | **Lecture**            |
-|                        | Chapitres 0 et 1       |
-|                        |                        |
-|                        |						  |
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| Évaluation formative          | Terminer l'exercice           | Chapitres 0 et 1               |
+|                               |                               |                                |
+
 
 ## Semaine 2
 | Faits en classe        | À faire à la maison
