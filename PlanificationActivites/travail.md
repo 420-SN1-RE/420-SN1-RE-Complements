@@ -30,6 +30,13 @@
 | Retour sur exercice formatif  | Compléter si pas remis        |                                |
 | 4.1 4.2 4.5                   | 4.4                           |                                |
 | 4.9                           | 4.11(a)                       |                                |
-| 4.13 4.15                     | 4.14 4.16 4.17 
+
+## Semaine 5
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 4.13 4.15                     | 4.14 4.16 4.17                | Pour examen intra:             |
+| 6.1 6.2 6.3                   | 6.4                           |                                |
+| 6.6 6.7 6.8                   | 6.9 6.10                      |                                |
+| 6.12 6.13 6.14                |                               |                                |
 
 
