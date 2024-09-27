@@ -46,6 +46,42 @@
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | Examen formatif               | Vous devez vous préparez pour | Voir semaine 5                   |
 |                               | l'examen                      |                                  |
-|                               |                               |                                  |
-|                               |                               |                                  |
- 
+
+## Semaine 7
+Examen le 10 octobre de 12h00 à 13h50.
+
+| Groupe            | Local d'examen  |
+|:-----------------:|:---------------:|
+| 001               | S-309           |
+| 002               | S-317           |
+| 003               | S-324           |
+| 004               | S-333           |
+| 005               | S-338           |
+| 006               | S-346           |
+
+
+La plage de cours est remplacée par une période de disponibilité en classe où vous pourrez faire des exercices 
+et poser des questions. Il n'y aura aucune nouvelle matière.
+
+Vous pouvez vous présenter à la séance de cours que vous voulez (pas obligatoirement votre plage horaire normale).
+La priorité sera toutefois donnée aux étudiants qui sont dans leur séance normale de cours.
+(N'attendez pas au jeudi 10 octobre pour poser vos questionsm, particulièrement si ce n'est pas votre séance normale
+de cours.)
+
+Les séances sont:
+
+| Plage horaire               | Local           | Enseignants               |
+|:---------------------------:|:---------------:|:-------------------------:|
+| 4 octobre de 8h00 à 11h00   | H-022           | Eric Wenaas               |
+| 4 octobre de 15h00 à 18h00  | S-031           | Georges Côté              |
+| 8 octobre de 8h00 à 11h00   | S-031           | Eric Wenaas               |
+| 9 octobre de 12h00 à 15h00  | S-016           | Eric Wenaas               |
+| 9 octobre de 15h00 à 18h00  | S-031           | Georges Côté              |
+| 10 octobre de 8h00 à 11h00  | S-016           | Eric Wenaas, Georges Côté |
+
+À LIRE POUR LA SEMAINE 8: Chapitre 5
+
+## Semaine 8
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
+|:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| à compléter...                |                               |                                  |
