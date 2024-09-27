@@ -64,7 +64,7 @@ et poser des questions. Il n'y aura aucune nouvelle matière.
 
 Vous pouvez vous présenter à la séance de cours que vous voulez (pas obligatoirement votre plage horaire normale).
 La priorité sera toutefois donnée aux étudiants qui sont dans leur séance normale de cours.
-(N'attendez pas au jeudi 10 octobre pour poser vos questionsm, particulièrement si ce n'est pas votre séance normale
+(N'attendez pas au jeudi 10 octobre pour poser vos questions, particulièrement si ce n'est pas votre séance normale
 de cours.)
 
 Les séances sont:
