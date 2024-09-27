@@ -44,8 +44,7 @@
 ## Semaine 6
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| Examen formatif               | Vous devez vous préparez pour | Voir semaine 5                   |
-|                               | l'examen                      |                                  |
+| Examen formatif               | Préparation pour l'examen     | Voir semaine 5                   |
 
 ## Semaine 7
 Examen le 10 octobre de 12h00 à 13h50.
