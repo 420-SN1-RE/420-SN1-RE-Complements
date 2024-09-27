@@ -41,3 +41,11 @@
 |                               |                               | Sections 4.1 à 4.4 inclusivement |
 |                               |                               | Sections 6.1 et 6.2              |
 
+## Semaine 6
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
+|:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| Examen formatif               | Vous devez vous préparez pour | Voir semaine 5                   |
+|                               | l'examen                      |                                  |
+|                               |                               |                                  |
+|                               |                               |                                  |
+ 
