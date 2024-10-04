@@ -74,6 +74,7 @@ Les séances sont:
 | 4 octobre de 8h00 à 11h00   | H-022           | Eric Wenaas               |
 | 4 octobre de 15h00 à 18h00  | S-031           | Georges Côté              |
 | 8 octobre de 8h00 à 11h00   | S-031           | Eric Wenaas               |
+| 8 octobre de 12h00 à 14h00  | S-016 et S-031  | Eric Wenaas, Georges Côté |
 | 9 octobre de 12h00 à 15h00  | S-016           | Eric Wenaas               |
 | 9 octobre de 15h00 à 18h00  | S-031           | Georges Côté              |
 | 10 octobre de 8h00 à 11h00  | S-016 et H-016  | Eric Wenaas, Georges Côté |
