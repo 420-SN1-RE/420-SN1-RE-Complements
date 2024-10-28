@@ -98,7 +98,7 @@ Les séances sont:
 | 8.1 8.2 8.4                   | 8.7                           |                                  |
 | 12.9                          |                               |                                  |
 
-## Semaine 9
+## Semaine 10
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 8.8 8.11 8.13                 | 8.14 8.15                     | Chapitre 9                       |
