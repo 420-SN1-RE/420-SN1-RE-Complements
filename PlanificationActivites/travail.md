@@ -118,9 +118,9 @@ Les séances sont:
 ## Semaine 12
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 10.2 10.3                     | 10.5                          | Aucune lecture                   |
+| 10.2 10.3                     | 10.1 10.5                     | Aucune lecture                   |
 | 10.8 (sans validation)        |                               |                                  |
 | 10.11 10.12                   |                               |                                  |
-| 12.1 12.22                    | 12.22                         |                                  |
+| 12.1 12.21                    | 12.19                         |                                  |
 
 
