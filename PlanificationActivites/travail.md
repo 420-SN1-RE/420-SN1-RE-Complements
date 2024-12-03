@@ -123,4 +123,14 @@ Les séances sont:
 | 10.11 10.12                   |                               |                                  |
 | 12.1 12.21                    | 12.19                         |                                  |
 
+## Semaines 13 et 14
+
+Travail personnel sur les différents travaux. Il n'y aura aucune matière dans le cours.
+
+## Semaine 15
+
+Travail personnel et préparation pour l'examen final. Il n'y aura aucune matière dans le cours.
+
+Voici les sections du livre qui sont susceptibles d'être utiles pour l'exmanen final:
+
 
