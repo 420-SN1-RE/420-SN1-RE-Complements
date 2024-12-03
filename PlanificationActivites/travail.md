@@ -177,3 +177,4 @@ l'examen formatif. Voici les sections du livre qui sont susceptibles d'être uti
 | Sections 8.1 à 8.3 inclusivement |
 | Sections 9.1 à 9.5 inclusivement |
 | Sections 10.1, 10.2, 10.4 et 10.5 |
+| Sections 12.1 à 12.3 inclusivement |
