@@ -129,8 +129,49 @@ Travail personnel sur les différents travaux. Il n'y aura aucune matière dans 
 
 ## Semaine 15
 
-Travail personnel et préparation pour l'examen final. Il n'y aura aucune matière dans le cours.
+L'examen final sera le 13 décembre de 15h00 à 18h00.
 
-Voici les sections du livre qui sont susceptibles d'être utiles pour l'exmanen final:
+Les locaux pour les différents groupes sont les suivants:
+
+| Groupe            | Local d'examen  |
+|:-----------------:|:---------------:|
+| 001               | Y-248-S01       |
+| 002               | Y-248-S02       |
+| 003               | Y-248-S03       |
+| 004               | Y-248-S05       |
+| 005               | Y-248-S06       |
+| 006               | Y-248-S04       |
+
+La plage de cours de la semaine 15 est remplacée par une période de disponibilité en classe où vous pourrez faire des exercices 
+et poser des questions. Il n'y aura aucune nouvelle matière.
+
+Vous pouvez vous présenter à la séance de cours que vous voulez (pas obligatoirement votre plage horaire normale).
+La priorité sera toutefois donnée aux étudiants qui sont dans leur séance normale de cours.
+(N'attendez pas au jeudi 12 décembre pour poser vos questions, particulièrement si ce n'est pas votre séance normale
+de cours.)
+
+Les séances sont:
+
+| Plage horaire                | Local           | Enseignants               |
+|:----------------------------:|:---------------:|:-------------------------:|
+| 6 décembre de 8h00 à 11h00   | H-022           | Eric Wenaas               |
+| 6 décembre de 15h00 à 18h00  | S-031           | Georges Côté              |
+| 10 décembre de 8h00 à 11h00  | S-031           | Eric Wenaas               |
+| 11 décembre de 12h00 à 15h00 | S-016           | Eric Wenaas               |
+| 11 décembre de 15h00 à 18h00 | S-031           | Georges Côté              |
+| 12 décembre de 8h00 à 11h00  | S-016           | Eric Wenaas               |
 
 
+L'examen final ne contiendra aucune question "théoriques". Ce ne sera que des questions de code comme
+l'examen formatif. Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen final:
+
+Sections 1.1 à 1.5 inclusivement
+Sections 2.1 à 2.3 inclusivement
+Sections 3.1 à 3.5 inclusivement
+Sections 4.1 à 4.4 inclusivement
+Sections 5.1 à 5.3 inclusivement
+Sections 6.1 à 6.4 inclusivement
+Sections 7.1 à 7.2 inclusivement
+Sections 8.1 à 8.3 inclusivement
+Sections 9.1 à 9.5 inclusivement
+Sections 10.1, 10.2, 10.4 et 10.5
