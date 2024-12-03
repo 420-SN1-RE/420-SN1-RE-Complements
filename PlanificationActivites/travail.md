@@ -162,7 +162,7 @@ Les séances sont:
 | 12 décembre de 8h00 à 11h00  | S-016           | Eric Wenaas               |
 
 
-L'examen final ne contiendra aucune question "théoriques". Ce ne sera que des questions de code comme
+L'examen final ne contiendra aucune question "théorique". Ce ne sera que des questions de code comme
 l'examen formatif. Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen final:
 
 Sections 1.1 à 1.5 inclusivement
