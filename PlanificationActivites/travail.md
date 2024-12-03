@@ -165,6 +165,8 @@ Les séances sont:
 L'examen final ne contiendra aucune question "théorique". Ce ne sera que des questions de code comme
 l'examen formatif. Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen final:
 
+| Sections du livre                |
+|:--------------------------------:|
 | Sections 1.1 à 1.5 inclusivement |
 | Sections 2.1 à 2.3 inclusivement |
 | Sections 3.1 à 3.5 inclusivement |
