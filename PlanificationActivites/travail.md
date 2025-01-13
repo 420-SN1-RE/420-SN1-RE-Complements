@@ -5,7 +5,7 @@
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
 | Évaluation formative          | Terminer l'évaluation         | Chapitres 0 et 1               |
 
-
+<!--
 ## Semaine 2
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
@@ -178,3 +178,4 @@ l'examen formatif. Voici les sections du livre qui sont susceptibles d'être uti
 | Sections 9.1 à 9.5 inclusivement |
 | Sections 10.1, 10.2, 10.4 et 10.5 |
 | Sections 12.1 à 12.3 inclusivement |
+-->
