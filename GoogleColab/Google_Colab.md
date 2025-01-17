@@ -2,6 +2,9 @@
 <br>420-SN1-RE
 <br>Éric Wenaas
 <br>Georges Côté
+<br>Stéphane Lévesque
+<br>Najoua Ghrieb
+  
 </h3>
 
 ## Google Colab
