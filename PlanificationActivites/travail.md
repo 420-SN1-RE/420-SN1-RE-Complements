@@ -4,7 +4,7 @@
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
 | Exercice formatif             | Terminer l'exercice formatif  | Chapitres 0 et 1               |
-|                               |                               | Section 2.1 et 3.1             |
+|                               |                               | Sections 2.1 et 3.1             |
 
 <!--
 ## Semaine 2
