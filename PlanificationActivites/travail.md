@@ -1,4 +1,4 @@
-# Activités à réaliser
+# Planification du travail hebdomadaire
 
 ## Semaine 1
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
