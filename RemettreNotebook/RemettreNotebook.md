@@ -13,7 +13,7 @@ On vous remet un exercice à compléter soit en classe ou à la maison.
 
 Vous importez le notebook (voir l'autre document).  
 
-Une fois le travail complété, vous devez remettre le notebook dans Léa. Pour réussir cette opération, vous devez, en premier, télécharger le notebook, c'est-à-dire que vous transférez le notebook de votre Google Disque (Drive).
+Une fois le travail complété, vous devez remettre le notebook dans Léa. Pour réussir cette opération, vous devez, en premier, télécharger le notebook, c'est-à-dire que vous transférez le notebook de votre Google Disque (Drive) vers votre ordinateur.
 
 À partir de Google Colab, vous sélectionnez le menu "Fichier" puis "Télécharger" puis finalement "Télécharger le fichier .ipynb".  
 
@@ -23,7 +23,7 @@ Le fichier se retrouvera dans votre dossier Téléchargements.
 
 Une fois cette opération réussie, vous pouvez remettre le fichier .ipynb dans Léa.
 
-Attention, si vous aviez importé ce notebook à partir de Léa, il faut faire attention pour choisir le bon fichier.
+Attention, si vous aviez importé ce notebook à partir de Léa, il faut faire attention de choisir le bon fichier.
 
 Par exemple, pour le premier exercice, le nom du fichier est "exercice-formatif_1.ipynb".  
 
