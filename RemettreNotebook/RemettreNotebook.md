@@ -41,7 +41,7 @@ Vous pouvez les trier par date avec le fichier le plus récent au début pour vo
 
 ![image4](Images_RemettreNotebook/image4.png)
 
-#### Correction semi-automatisé
+#### Correction semi-automatisée
 
 Quand vous remettez un notebook, nous utilisons une correction semi-automatisée. Cela veut dire que nous avons écrit du code qui valide votre code.
 
