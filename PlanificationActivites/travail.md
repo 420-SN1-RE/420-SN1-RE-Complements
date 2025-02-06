@@ -31,7 +31,7 @@
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
 | 4.1 4.2 4.5                   | 4.4 4.6                       | Chapitre 6 (pas 5 !)           |
 | 4.8 4.9                       | 4.12                          |                                |
-| 4.17                   |      | 4.15 4.16                     |                                |
+| 4.17                          | 4.15 4.16                     |                                |
 
 ## Semaine 5
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
