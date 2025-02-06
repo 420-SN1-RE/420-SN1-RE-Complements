@@ -29,10 +29,9 @@
 ## Semaine 4
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-|                               | 3.22 3.24 3.25                | Chapitre 6 (pas 5 !)           |
-| Retour sur exercice formatif  | Compléter si pas remis        |                                |
-| 4.1 4.2 4.5                   | 4.4                           |                                |
-| 4.9                           | 4.11(a)                       |                                |
+| 4.1 4.2 4.5                   | 4.4 4.6                       | Chapitre 6 (pas 5 !)           |
+| 4.8 4.9                       | 4.12                          |                                |
+| 4.17                   |      | 4.15 4.16                     |                                |
 
 ## Semaine 5
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
