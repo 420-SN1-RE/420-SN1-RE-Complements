@@ -33,17 +33,14 @@
 | 4.8 4.9                       | 4.12                          |                                |
 | 4.17                          | 4.15 4.16                     |                                |
 
-<!--
 ## Semaine 5
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 4.13 4.15                     | 4.14 4.16 4.17                | Pour examen intra:               |
-| 6.1 6.2 6.3                   | 6.4                           | Sections 1.1 à 1.5 inclusivement |
-| 6.6 6.7 6.8                   | 6.9 6.10                      | Sections 2.1 à 2.3 inclusivement |
-|                               |                               | Sections 3.1 à 3.5 inclusivement |
-|                               |                               | Sections 4.1 à 4.4 inclusivement |
-|                               |                               | Sections 6.1 et 6.2              |
+| 6.1 6.2 6.3                   | 6.4                           | Chapitre 5                       |
+| 6.5 6.6 6.7                   | 6.8 6.9 6.10                  |                                  |
+| 6.12 6.13                     | 6.14                          |                                  |
 
+<!--
 ## Semaine 6
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
