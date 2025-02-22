@@ -40,54 +40,54 @@
 | 6.5 6.6 6.7                   | 6.8 6.9 6.10                  |                                  |
 | 6.12 6.13                     | 6.14                          |                                  |
 
-<!--
+
 ## Semaine 6
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| Examen formatif               | Préparation pour l'examen     | Voir semaine 5                   |
+| 5.1 5.2 5.3 5.5               | 5.4 5.6 5.7 5.8               | Préparation pour l'examen intra: |
+| 5.9 5.10                      | 5.5                           | Sections 1.1 à 1.5 inclusivement |
+| 5.11                          | 5.13 5.14 5.15                | Sections 2.1 à 2.3 inclusivement |
+|                               | 5.18 5.19 5.20 5.21 5.22 5.25 | Sections 3.1 à 3.4 inclusivement |
+|                               |                               | Sections 4.1 à 4.4 inclusivement |
+|                               |                               | Sections 6.1 à 6.5 inclusivement |
 
 ## Semaine 7
-Examen le 10 octobre de 12h00 à 13h50.
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
+|:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
+|                               |                               | Voir semaine 6                   |
+
+<!--
+## Semaine 8
+
+Examen le 20 mars de 12h00 à 13h50
 
 | Groupe            | Local d'examen  |
 |:-----------------:|:---------------:|
-| 001               | S-309           |
-| 002               | S-317           |
-| 003               | S-324           |
-| 004               | S-333           |
-| 005               | S-338           |
-| 006               | S-346           |
+| 001               | XXXXX           |
+| 002               | XXXXX           |
+| 003               | XXXXX           |
+| 004               | XXXXX           |
+| 005               | XXXXX           |
+| 006               | XXXXX           |
+| 007               | XXXXX           |
+| 008               | XXXXX           |
+| 009               | XXXXX           |
+| 010               | XXXXX           |
+| 011               | XXXXX           |
+| 012               | XXXXX           |
+| 013               | XXXXX           |
+| 014               | XXXXX           |
+| 015               | XXXXX           |
 
+Les cours de la semaine 8 sont en principe annulés et remplacés par la période d'examen.
+Les modalités vous seront précisées par votre enseignant.
 
-La plage de cours est remplacée par une période de disponibilité en classe où vous pourrez faire des exercices 
-et poser des questions. Il n'y aura aucune nouvelle matière.
+##Lecture pour la semaine 9:
 
-Vous pouvez vous présenter à la séance de cours que vous voulez (pas obligatoirement votre plage horaire normale).
-La priorité sera toutefois donnée aux étudiants qui sont dans leur séance normale de cours.
-(N'attendez pas au jeudi 10 octobre pour poser vos questions, particulièrement si ce n'est pas votre séance normale
-de cours.)
-
-Les séances sont:
-
-| Plage horaire               | Local           | Enseignants               |
-|:---------------------------:|:---------------:|:-------------------------:|
-| 4 octobre de 8h00 à 11h00   | H-022           | Eric Wenaas               |
-| 4 octobre de 15h00 à 18h00  | S-031           | Georges Côté              |
-| 8 octobre de 8h00 à 11h00   | S-031           | Eric Wenaas               |
-| 8 octobre de 12h00 à 14h00  | S-016 et S-031  | Eric Wenaas, Georges Côté |
-| 9 octobre de 12h00 à 15h00  | S-016           | Eric Wenaas               |
-| 9 octobre de 15h00 à 18h00  | S-031           | Georges Côté              |
-| 10 octobre de 8h00 à 11h00  | S-016 et H-016  | Eric Wenaas, Georges Côté |
-
-À LIRE POUR LA SEMAINE 8: Chapitre 5
-
-## Semaine 8
-| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
-|:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 6.12 6.13 6.14                |                               | Chapitre 7                       |
-| 5.1 5.2 5.3                   | 5.4 5.5 5.6 5.7               | Sections 8.1 8.2 et 8.3          |
-| 5.9 5.10 5.11                 | 5.8                           | Sections 12.1 et 12.2            |
-| 5.13 5.14 5.15                | 5.18 5.19 5.20 5.22 5.23      |                                  |
+Chapitre 7
+Sections 8.1, 8.2 et 8.3
+Sections 12.1 et 12.2
 
 ## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
