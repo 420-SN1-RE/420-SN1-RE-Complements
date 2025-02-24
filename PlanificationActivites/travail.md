@@ -44,8 +44,8 @@
 ## Semaine 6
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 5.1 5.2 5.3                   | 5.4 5.6 5.7 5.8               | Préparation pour l'examen intra: |
-| 5.9 5.10                      | 5.5                           | Sections 1.1 à 1.5 inclusivement |
+| 5.1 5.2 5.3 5.5               | 5.4 5.6 5.7 5.8               | Préparation pour l'examen intra: |
+| 5.9 5.10                      |                               | Sections 1.1 à 1.5 inclusivement |
 | 5.11                          | 5.13 5.14 5.15                | Sections 2.1 à 2.3 inclusivement |
 |                               | 5.18 5.19 5.20 5.21 5.22 5.25 | Sections 3.1 à 3.4 inclusivement |
 |                               |                               | Sections 4.1 à 4.4 inclusivement |
@@ -81,7 +81,7 @@ Examen le 20 mars de 12h00 à 13h50
 | 015               | XXXXX           |
 
 Les cours de la semaine 8 sont en principe annulés et remplacés par la période d'examen.
-Les modalités vous seront précisées par votre enseignant.
+Les modalités vous seront précisées par votre enseignante ou enseignant.
 
 ##Lecture pour la semaine 9:
 
