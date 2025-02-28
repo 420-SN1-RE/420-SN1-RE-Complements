@@ -64,26 +64,27 @@ Examen le 20 mars de 12h00 à 13h50
 
 | Groupe            | Local d'examen  |
 |:-----------------:|:---------------:|
-| 001               | XXXXX           |
-| 002               | XXXXX           |
-| 003               | XXXXX           |
-| 004               | XXXXX           |
-| 005               | XXXXX           |
-| 006               | XXXXX           |
-| 007               | XXXXX           |
-| 008               | XXXXX           |
-| 009               | XXXXX           |
-| 010               | XXXXX           |
-| 011               | XXXXX           |
-| 012               | XXXXX           |
-| 013               | XXXXX           |
-| 014               | XXXXX           |
-| 015               | XXXXX           |
+| 001               | S-106/S-112     |
+| 002               | S-106/S-112     |
+| 003               | S-309           |
+| 004               | S-317           |
+| 005               | S-324           |
+| 006               | S-406           |
+| 007               | S-333           |
+| 008               | S-338           |
+| 009               | S-346           |
+| 010               | R-135           |
+| 011               | R-135           |
+| 012               | R-135           |
+| 013               | S-409           |
+| 014               | S-412           |
+| 015               | R-315           |
 
 Les cours de la semaine 8 sont en principe annulés et remplacés par la période d'examen.
+
 Les modalités vous seront précisées par votre enseignante ou enseignant.
 
-##Lecture pour la semaine 9:
+ATTENTION: Lecture pour la semaine 9
 
 Chapitre 7
 Sections 8.1, 8.2 et 8.3
