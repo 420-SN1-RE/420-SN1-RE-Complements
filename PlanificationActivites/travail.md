@@ -57,7 +57,6 @@
 | Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
 |                               |                               | Voir semaine 6                   |
 
-<!--
 ## Semaine 8
 
 Examen le 20 mars de 12h00 à 13h50
@@ -90,6 +89,7 @@ Chapitre 7
 Sections 8.1, 8.2 et 8.3
 Sections 12.1 et 12.2
 
+<!--
 ## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
