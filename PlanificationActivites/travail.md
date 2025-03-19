@@ -86,22 +86,20 @@ Les modalités vous seront précisées par votre enseignante ou enseignant.
 ATTENTION: Lecture pour la semaine 9
 
 Chapitre 7
-Sections 8.1, 8.2 et 8.3
-Sections 12.1 et 12.2
-
+Section 12.3
 <!--
 ## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 7.1 7.2                       | 7.3                           | Sections 8.4 8.5                 |
-| 7.5 7.7 7.8                   | 7.6 7.9                       | Section 12.3                     |
-| 7.10 7.13 7.17                | 7.14 7.18                     |                                  |
-| 8.1 8.2 8.4                   | 8.7                           |                                  |
+| 7.1 7.2                       |                               | Chapitre 8                       |
+| 7.3 7.5 7.7                   | 7.6                           | Sections 12.1 et 12.2            |
+| 7.8 7.10 7.13 7.17            | 7.9  7.12 7.14 7.18           |                                  |
 | 12.9                          |                               |                                  |
 
 ## Semaine 10
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| 8.1 8.2 8.4                   | 8.7                           |                                  |
 | 8.8 8.11 8.13                 | 8.14 8.15                     | Chapitre 9                       |
 | 8.19                          | 8.24 8.25                     |                                  |
 | 12.8                          | 12.4 12.5                     |                                  |
