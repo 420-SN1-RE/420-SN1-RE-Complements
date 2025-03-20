@@ -77,7 +77,7 @@ Examen le 20 mars de 12h00 à 13h50
 | 012               | R-135           |
 | 013               | S-409           |
 | 014               | S-412           |
-| 015               | R-315           |
+| 015               | R-135           |
 
 Les cours de la semaine 8 sont en principe annulés et remplacés par la période d'examen.
 
