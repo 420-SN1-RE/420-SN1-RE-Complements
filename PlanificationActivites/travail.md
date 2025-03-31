@@ -95,16 +95,15 @@ Chapitre 7 et Section 12.3
 | 7.8 7.10 7.13 7.17            | 7.9  7.12 7.14 7.18           |                                  |
 | 12.15 12.16 12.17 12.23       | 12.18 12.19 12.20             |                                  |
 
-<!--
 ## Semaine 10
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 8.1 8.2 8.4                   | 8.7                           |                                  |
-| 8.8 8.11 8.13                 | 8.14 8.15                     | Chapitre 9                       |
-| 8.19                          | 8.24 8.25                     |                                  |
-| 12.8                          | 12.4 12.5                     |                                  |
-| 12.10 12.13                   | 12.14                         |                                  |
+| 8.1 8.2 8.4                   | 8.7                           | Chapitre 9                       |
+| 8.8 8.11 8.13                 | 8.14 8.15                     |                                  |
+| 8.19                          | 8.21 8.22                     |                                  |
+| 12.1 12.9 12.13               | 12.14                         |                                  |
 
+<!--
 ## Semaine 11
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
@@ -113,6 +112,7 @@ Chapitre 7 et Section 12.3
 |                               | 9.17 9.20                     |                                  |
 | 9.22                          | 9.25                          |                                  |
 | 9.29 9.32                     | 9.30 9.33 9.36                |                                  |
+| 12.8                          | 12.4 12.5                     |                                  |
 
 ## Semaine 12
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
