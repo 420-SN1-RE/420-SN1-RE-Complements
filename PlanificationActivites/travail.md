@@ -101,32 +101,46 @@ Chapitre 7 et Section 12.3
 | 8.1 8.2 8.4                   | 8.7                           | Chapitre 9                       |
 | 8.8 8.11 8.13                 | 8.14 8.15                     |                                  |
 | 8.19                          | 8.21 8.22                     |                                  |
-| 12.1 12.9 12.13               | 12.14                         |                                  |
+| 12.9 12.13                    | 12.14                         |                                  |
 
-<!--
 ## Semaine 11
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 9.1 9.3                       | 9.2                           | Chapitre 10                      |
-| 9.4 9.5 9.11 9.18             | 9.7 9.9 9.10 9.12 9.13        |                                  |
-|                               | 9.17 9.20                     |                                  |
-| 9.22                          | 9.25                          |                                  |
-| 9.29 9.32                     | 9.30 9.33 9.36                |                                  |
-| 12.8                          | 12.4 12.5                     |                                  |
+| 9.4 9.5 9.8 9.11 9.18         | 9.7 9.9 9.10 9.12 9.13 9.15   |                                  |
+| 9.22                          | 9.17 9.20                     |                                  |
+| 9.25                          |                               |                                  |
+| 12.1 12.8                     | 12.4 12.5                     |                                  |
 
 ## Semaine 12
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 10.2 10.3                     | 10.1 10.5                     | Aucune lecture                   |
-| 10.8 (sans validation)        |                               |                                  |
-| 10.11 10.12                   |                               |                                  |
-| 12.1 12.21                    | 12.19                         |                                  |
+| 9.29 9.30 9.32                | 9.33 9.34 9.36                | Aucune lecture                   |
+| 10.2 10.3                     | 10.4 10.5                     |                                  |
+| 10.8                          | 10.10                         |                                  |
+| 10.9                          |                               |                                  |
 
-## Semaines 13 et 14
+## Semaine 13
 
-Travail personnel sur les différents travaux. Il n'y aura aucune matière dans le cours.
+La première heure de cours est consacrée au contrôle.
+
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
+|:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| 10.11 10.12                   |                               | Aucune lecture                   |
+| Exercices supplémentaires sur les fichiers CSV                |                                  |
+
+## Semaine 14
+
+Examen formatif
 
 ## Semaine 15
+
+Il n'y a pas de nouvelle matière. 
+Les modalités vous seront précisées par votre enseignante ou enseignant.
+
+<!--
+
+
 
 L'examen final sera le 13 décembre de 15h00 à 18h00.
 
