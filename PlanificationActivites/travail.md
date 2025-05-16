@@ -138,7 +138,6 @@ Examen formatif
 Il n'y a pas de nouvelle matière. 
 Les modalités vous seront précisées par votre enseignante ou enseignant.
 
-<!--
 ## Examen final
 
 L'examen final sera le 29 mai de 15h00 à 18h00.
@@ -182,4 +181,3 @@ Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen f
 | Sections 12.1 à 12.3 inclusivement |
 
 L'aide-mémoire disponible sur Lea sera fourni à l'examen.
--->
