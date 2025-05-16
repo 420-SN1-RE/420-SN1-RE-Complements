@@ -139,44 +139,33 @@ Il n'y a pas de nouvelle matière.
 Les modalités vous seront précisées par votre enseignante ou enseignant.
 
 <!--
+## Examen final
 
-
-
-L'examen final sera le 13 décembre de 15h00 à 18h00.
+L'examen final sera le 29 mai de 15h00 à 18h00.
 
 Les locaux pour les différents groupes sont les suivants:
 
 | Groupe            | Local d'examen  |
 |:-----------------:|:---------------:|
-| 001               | Y-248-S01       |
-| 002               | Y-248-S02       |
-| 003               | Y-248-S03       |
-| 004               | Y-248-S05       |
-| 005               | Y-248-S06       |
-| 006               | Y-248-S04       |
+| 001               | S-106           |
+| 002               | S-112           |
+| 003               | U-113-S7        |
+| 004               | U-113-S8        |
+| 005               | Y-248-S07       |
+| 006               | Y-248-S08       |
+| 007               | Y-248-S09       |
+| 008               | Y-248-S10       |
+| 009               | Y-248-S11       |
+| 010               | Y-248-S01       |
+| 011               | Y-248-S02       |
+| 012               | Y-248-S03       |
+| 013               | Y-248-S04       |
+| 014               | Y-248-S05       |
+| 015               | Y-248-S06       |
 
-La plage de cours de la semaine 15 est remplacée par une période de disponibilité en classe où vous pourrez faire des exercices 
-et poser des questions. Il n'y aura aucune nouvelle matière.
+L'examen final ne contiendra que des questions de code comme l'examen formatif.
 
-Vous pouvez vous présenter à la séance de cours que vous voulez (pas obligatoirement votre plage horaire normale).
-La priorité sera toutefois donnée aux étudiants qui sont dans leur séance normale de cours.
-(N'attendez pas au jeudi 12 décembre pour poser vos questions, particulièrement si ce n'est pas votre séance normale
-de cours.)
-
-Les séances sont:
-
-| Plage horaire                | Local           | Enseignants               |
-|:----------------------------:|:---------------:|:-------------------------:|
-| 6 décembre de 8h00 à 11h00   | H-022           | Eric Wenaas               |
-| 6 décembre de 15h00 à 18h00  | S-031           | Georges Côté              |
-| 10 décembre de 8h00 à 11h00  | S-031           | Eric Wenaas               |
-| 11 décembre de 12h00 à 15h00 | S-016           | Eric Wenaas               |
-| 11 décembre de 15h00 à 18h00 | S-031           | Georges Côté              |
-| 12 décembre de 8h00 à 11h00  | S-016           | Eric Wenaas               |
-
-
-L'examen final ne contiendra aucune question "théorique". Ce ne sera que des questions de code comme
-l'examen formatif. Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen final:
+Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen final:
 
 | Sections du livre                |
 |:--------------------------------:|
@@ -191,4 +180,6 @@ l'examen formatif. Voici les sections du livre qui sont susceptibles d'être uti
 | Sections 9.1 à 9.5 inclusivement |
 | Sections 10.1, 10.2, 10.4 et 10.5 |
 | Sections 12.1 à 12.3 inclusivement |
+
+L'aide-mémoire disponible sur Lea sera fourni à l'examen.
 -->
