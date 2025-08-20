@@ -20,8 +20,8 @@
 ## Semaine 3
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 2.6                           | 2.4 2.5                       | Préparation Quiz (Chap. 1 et 2)|
-| 2.8 2.9     	                | 2.10 2.11 2.13                | Chapitre 4                               |
+| 2.6                           | 2.4 2.5                       | Chapitre 4                     |
+| 2.8 2.9     	                | 2.10 2.11 2.13                |                                |
 | 3.4 3.9                       | 3.3 3.5 3.6 3.7               |                                |
 | 3.14 3.16 3.18                | 3.15 3.17 3.19                |                                |
 |                               | 3.24 3.25                     |                                |
@@ -30,11 +30,12 @@
 ## Semaine 4
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 4.1 4.2 4.5                   | 4.4 4.6                       | Chapitre 6 (pas 5 !)           |
-| 4.8 4.9                       | 4.12                          |                                |
+| 4.1 4.2 4.5                   | 4.4 4.6                       | Préparation Quiz (Chap. 1 à 3) |
+| 4.8 4.9                       | 4.12                          | Chapitre 6 (pas 5 !)           |
 | 4.17                          | 4.15 4.16                     |                                |
 
 ## Semaine 5
+### Quiz (10%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 6.1 6.2 6.3                   | 6.4                           | Chapitre 5                       |
@@ -60,7 +61,7 @@
 
 ## Semaine 8
 
-Examen le 20 mars de 12h00 à 13h50
+Examen le 16 octobre de 12h00 à 13h50
 
 | Groupe            | Local d'examen  |
 |:-----------------:|:---------------:|
@@ -76,9 +77,7 @@ Examen le 20 mars de 12h00 à 13h50
 | 010               | R-135           |
 | 011               | R-135           |
 | 012               | R-135           |
-| 013               | S-409           |
-| 014               | S-412           |
-| 015               | R-135           |
+
 
 Les cours de la semaine 8 sont en principe annulés et remplacés par la période d'examen.
 
@@ -114,6 +113,7 @@ Chapitre 7 et Section 12.3
 | 12.1 12.8                     | 12.4 12.5                     |                                  |
 
 ## Semaine 12
+#### Contrôle (15%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 9.29 9.30 9.32                | 9.33 9.34 9.36                | Aucune lecture                   |
@@ -141,7 +141,7 @@ Les modalités vous seront précisées par votre enseignante ou enseignant.
 
 ## Examen final
 
-L'examen final sera le 29 mai de 15h00 à 18h00.
+L'examen final sera le XX décembre de XXh00 à XXh00.
 
 Les locaux pour les différents groupes sont les suivants:
 
@@ -159,9 +159,7 @@ Les locaux pour les différents groupes sont les suivants:
 | 010               | Y-248-S01       |
 | 011               | Y-248-S02       |
 | 012               | Y-248-S03       |
-| 013               | Y-248-S04       |
-| 014               | Y-248-S05       |
-| 015               | Y-248-S06       |
+
 
 L'examen final ne contiendra que des questions de code comme l'examen formatif.
 
