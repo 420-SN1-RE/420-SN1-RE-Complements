@@ -6,6 +6,7 @@
 | Exercice formatif             | Terminer l'exercice formatif  | Chapitres 0 et 1               |
 |                               |                               | Sections 2.1 et 3.1             |
 
+<!--
 ## Semaine 2
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
@@ -181,3 +182,4 @@ Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen f
 | Sections 12.1 à 12.3 inclusivement |
 
 L'aide-mémoire disponible sur Lea sera fourni à l'examen.
+-->
