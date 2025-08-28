@@ -6,7 +6,6 @@
 | Exercice formatif             | Terminer l'exercice formatif  | Chapitres 0 et 1               |
 |                               |                               | Sections 2.1 et 3.1             |
 
-<!--
 ## Semaine 2
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
@@ -16,7 +15,7 @@
 | 1.18                          | 1.17 1.19 1.21  1.23          |                                |
 | 2.1 2.2                       |                               |                                |
 
-
+<!--
 ## Semaine 3
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
