@@ -15,7 +15,6 @@
 | 1.18                          | 1.17 1.19 1.21  1.23          |                                |
 | 2.1 2.2                       |                               |                                |
 
-<!--
 ## Semaine 3
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
@@ -25,6 +24,7 @@
 | 3.14 3.16 3.18                | 3.15 3.17 3.19                |                                |
 |                               | 3.24 3.25                     |                                |
 
+<!--
 
 ## Semaine 4
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
