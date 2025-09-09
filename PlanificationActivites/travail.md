@@ -19,12 +19,12 @@
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
 | 2.6                           | 2.4 2.5                       | Chapitre 4                     |
-| 2.8 2.9     	                | 2.10 2.11 2.13                |                                |
+| 2.8 2.9     	                | 2.10 2.11 2.13                | Section 6.1                    |
 | 3.4 3.9                       | 3.3 3.5 3.6 3.7               |                                |
 | 3.14 3.16 3.18                | 3.15 3.17 3.19                |                                |
 |                               | 3.24 3.25                     |                                |
 
-<!--
+
 
 ## Semaine 4
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
@@ -32,7 +32,9 @@
 | 4.1 4.2 4.5                   | 4.4 4.6                       | Préparation Quiz (Chap. 1 à 3) |
 | 4.8 4.9                       | 4.12                          | Chapitre 6 (pas 5 !)           |
 | 4.17                          | 4.15 4.16                     |                                |
+| 6.1 6.2 6.3                   |                               |                                |
 
+<!--
 ## Semaine 5
 ### Quiz (10%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
