@@ -36,7 +36,7 @@
 
 <!--
 ## Semaine 5
-### Quiz (10%)
+### Quiz (10%) sauf pour le groupe 002
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 6.5 6.6 6.7                   | 6.8 6.9 6.10                  | Chapitre 5                       |
