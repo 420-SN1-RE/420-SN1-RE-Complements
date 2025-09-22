@@ -34,14 +34,14 @@
 | 4.17                          | 4.15 4.16                     |                                |
 | 6.1 6.2 6.3                   | 6.4                           |                                |
 
-<!--
+
 ## Semaine 5
 ### Quiz (10%) sauf pour le groupe 002
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 6.5 6.6 6.7                   | 6.8 6.9 6.10                  | Chapitre 5                       |
 | 6.12 6.13                     | 6.14                          |                                  |
-
+<!--
 ## Semaine 6
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
