@@ -41,8 +41,10 @@
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 6.5 6.6 6.7                   | 6.8 6.9 6.10                  | Chapitre 5                       |
 | 6.12 6.13                     | 6.14                          |                                  |
-<!--
+
 ## Semaine 6
+$${\color{red}Pour \space les \space groupes \space dont \space la \space séance \space est \space entre \space le \space 1er \space octobre \space et \space le \space 3 \space octobre \space (sauf \space groupe \space 002)}$$
+
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 5.1 5.2 5.3 5.5               | 5.4 5.6 5.7 5.8               | Préparation pour l'examen intra: |
@@ -52,12 +54,26 @@
 |                               |                               | Sections 4.1 à 4.4 inclusivement |
 |                               |                               | Sections 6.1 à 6.5 inclusivement |
 
-## Semaine 7
+## Semaine 6
+$${\color{red}Pour \space les \space autres \space groupes}$$
+
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
 |                               |                               | Voir semaine 6                   |
 
+## Semaine 7
+$${\color{red}Examen \space formatif \space pour \space ceux \space dont \space la \space séance \space est \space entre \space le \space 8 \space octobre \space et \space le \space 10 \space octobre \space (\color{black}incluant \color{red}\space groupe \space 002)}$$
+$${\color{red}Pour \space les \space autres \space groupes, \space chapitre \space 5}$$
+<!--
+
+## Semaine 7
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
+|:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
+|                               |                               | Voir semaine 6                   |
+-->
+<!--
 ## Semaine 8
 
 Examen le 16 octobre de 12h00 à 13h50
