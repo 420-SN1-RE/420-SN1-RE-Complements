@@ -71,7 +71,7 @@ Examen le 16 octobre de 12h00 à 13h50
 | 007               | R-135           |
 | 008               | R-135           |
 | 009               | R-135           |
-| 010               | à confirmer     |
+| 010               | S-129           |
 
 Les cours de la semaine 8 sont annulés et remplacés par la période d'examen.
 
