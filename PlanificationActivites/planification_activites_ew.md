@@ -42,6 +42,9 @@
 | 6.5 6.6 6.7                   | 6.8 6.9 6.10                  |                                  |
 | 6.12 6.13                     | 6.14                          |                                  |
 
+ATTENTION: Pour les groupes qui ont leur séance de cours le lundi ou le mardi, les semaines 6 et 7
+           sont inversées.
+
 ## Semaine 6
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
