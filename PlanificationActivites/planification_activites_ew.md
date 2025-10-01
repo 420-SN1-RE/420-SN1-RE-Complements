@@ -38,8 +38,8 @@
 ## Semaine 5
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| Début du cours: Quiz (10%)    |                               |                                  |
-| 6.5 6.6 6.7                   | 6.8 6.9 6.10                  | Chapitre 5                       |
+| Début du cours: Quiz (10%)    |                               | Chapitre 5                       |
+| 6.5 6.6 6.7                   | 6.8 6.9 6.10                  |                                  |
 | 6.12 6.13                     | 6.14                          |                                  |
 
 ## Semaine 6
@@ -51,12 +51,6 @@
 |                               | 5.18 5.19 5.20 5.21 5.22 5.25 | Sections 3.1 à 3.4 inclusivement |
 |                               |                               | Sections 4.1 à 4.4 inclusivement |
 |                               |                               | Sections 6.1 à 6.5 inclusivement |
-
-## Semaine 6
-| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
-|:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
-|                               |                               | Voir semaine 6                   |
 
 ## Semaine 7
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
