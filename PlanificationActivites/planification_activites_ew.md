@@ -36,9 +36,9 @@
 
 
 ## Semaine 5
-### Quiz (10%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| Début du cours: Quiz (10%)    |                               |                                  |
 | 6.5 6.6 6.7                   | 6.8 6.9 6.10                  | Chapitre 5                       |
 | 6.12 6.13                     | 6.14                          |                                  |
 
