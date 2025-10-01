@@ -61,35 +61,25 @@ ATTENTION: Pour les groupes qui ont leur séance de cours le lundi ou le mardi, 
 | Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
 |                               |                               | Voir semaine 6                   |
 
-<!--
+
 ## Semaine 8
 
 Examen le 16 octobre de 12h00 à 13h50
 
 | Groupe            | Local d'examen  |
 |:-----------------:|:---------------:|
-| 001               | S-106/S-112     |
-| 002               | S-106/S-112     |
-| 003               | S-309           |
-| 004               | S-317           |
-| 005               | S-324           |
-| 006               | S-406           |
-| 007               | S-333           |
-| 008               | S-338           |
-| 009               | S-346           |
-| 010               | R-135           |
-| 011               | R-135           |
-| 012               | R-135           |
+| 007               | R-135           |
+| 008               | R-135           |
+| 009               | R-135           |
+| 010               | à confirmer     |
 
-
-Les cours de la semaine 8 sont en principe annulés et remplacés par la période d'examen.
-
-Les modalités vous seront précisées par votre enseignante ou enseignant.
+Les cours de la semaine 8 sont annulés et remplacés par la période d'examen.
 
 ATTENTION: Lecture pour la semaine 9
 
 Chapitre 7 et Section 12.3
 
+<!--
 ## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
