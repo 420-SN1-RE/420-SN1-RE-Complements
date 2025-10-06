@@ -65,15 +65,14 @@ $${\color{red}Pour \space les \space autres \space groupes}$$
 ## Semaine 7
 $${\color{red}Examen \space formatif \space pour \space ceux \space dont \space la \space séance \space est \space entre \space le \space 8 \space octobre \space et \space le \space 10 \space octobre \space (\color{black}incluant \color{red}\space groupe \space 002)}$$
 $${\color{red}Pour \space les \space autres \space groupes, \space chapitre \space 5}$$
-<!--
 
 ## Semaine 7
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
 |                               |                               | Voir semaine 6                   |
--->
 <!--
+-->
 ## Semaine 8
 
 Examen le 16 octobre de 12h00 à 13h50
@@ -82,22 +81,23 @@ Examen le 16 octobre de 12h00 à 13h50
 |:-----------------:|:---------------:|
 | 001               | S-106/S-112     |
 | 002               | S-106/S-112     |
-| 003               | S-309           |
-| 004               | S-317           |
-| 005               | S-324           |
-| 006               | S-406           |
-| 007               | S-333           |
-| 008               | S-338           |
-| 009               | S-346           |
-| 010               | R-135           |
-| 011               | R-135           |
-| 012               | R-135           |
+| 003               | S-232           |
+| 004               | S-107           |
+| 005               | S-338           |
+| 006               | S-134           |
+| 007               | R-135           |
+| 008               | R-135           |
+| 009               | R-135           |
+| 010               | S-129           |
+| 011               | S-309           |
+| 012               | S-317           |
 
 
 Les cours de la semaine 8 sont en principe annulés et remplacés par la période d'examen.
 
 Les modalités vous seront précisées par votre enseignante ou enseignant.
 
+<!--
 ATTENTION: Lecture pour la semaine 9
 
 Chapitre 7 et Section 12.3
