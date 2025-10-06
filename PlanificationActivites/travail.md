@@ -66,12 +66,12 @@ $${\color{red}Pour \space les \space autres \space groupes}$$
 $${\color{red}Examen \space formatif \space pour \space ceux \space dont \space la \space séance \space est \space entre \space le \space 8 \space octobre \space et \space le \space 10 \space octobre \space (\color{black}incluant \color{red}\space groupe \space 002)}$$
 $${\color{red}Pour \space les \space autres \space groupes, \space chapitre \space 5}$$
 
+<!--
 ## Semaine 7
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
 |                               |                               | Voir semaine 6                   |
-<!--
 -->
 ## Semaine 8
 
