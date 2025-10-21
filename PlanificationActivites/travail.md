@@ -97,11 +97,12 @@ Les cours de la semaine 8 sont en principe annulés et remplacés par la périod
 
 Les modalités vous seront précisées par votre enseignante ou enseignant.
 
+## Semaine 9
+
 ATTENTION: Lecture pour la semaine 9
 
 Chapitre 7 et Section 12.3
 
-## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 7.1 7.2                       |                               | Chapitre 8                       |
