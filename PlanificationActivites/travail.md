@@ -110,7 +110,6 @@ Chapitre 7 et Section 12.3
 | 7.8 7.10 7.13 7.17            | 7.9  7.14 7.18                |                                  |
 | 12.15 12.16 12.17 12.23       | 12.18 12.19 12.20             |                                  |
 
-<!--
 ## Semaine 10
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
@@ -119,6 +118,7 @@ Chapitre 7 et Section 12.3
 | 8.19                          | 8.21 8.22                     |                                  |
 | 12.9 12.13                    | 12.14                         |                                  |
 
+<!--
 ## Semaine 11
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
