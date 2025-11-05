@@ -105,16 +105,16 @@ Chapitre 7 et Section 12.3
 | 9.25                          |                               |                                  |
 | 12.1 12.8                     | 12.4 12.5                     |                                  |
 
-<!--
+
 ## Semaine 12
 #### Contrôle (15%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 9.29 9.30 9.32                | 9.33 9.34 9.36                | Aucune lecture                   |
 | 10.2 10.3                     | 10.4 10.5                     |                                  |
-| 10.8                          | 10.10                         |                                  |
-| 10.9                          |                               |                                  |
+| 10.8                          | 10.9 10.10                    |                                  |
 
+<--
 ## Semaine 13
 
 La première heure de cours est consacrée au contrôle.
