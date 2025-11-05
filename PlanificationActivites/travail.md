@@ -118,7 +118,6 @@ Chapitre 7 et Section 12.3
 | 8.19                          | 8.21 8.22                     |                                  |
 | 12.9 12.13                    | 12.14                         |                                  |
 
-<!--
 ## Semaine 11
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
@@ -128,6 +127,7 @@ Chapitre 7 et Section 12.3
 | 9.25                          |                               |                                  |
 | 12.1 12.8                     | 12.4 12.5                     |                                  |
 
+<!--
 ## Semaine 12
 #### Contrôle (15%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
