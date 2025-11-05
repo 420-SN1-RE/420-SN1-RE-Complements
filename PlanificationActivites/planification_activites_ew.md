@@ -112,22 +112,23 @@ Chapitre 7 et Section 12.3
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 9.29 9.30 9.32                | 9.33 9.34 9.36                | Aucune lecture                   |
 | 10.2 10.3                     | 10.4 10.5                     |                                  |
-| 10.8                          | 10.9 10.10                    |                                  |
 
-<!--
 ## Semaine 13
-
-La première heure de cours est consacrée au contrôle.
 
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 10.11 10.12                   |                               | Aucune lecture                   |
+| 10.8  10.9                    | 10.10                         | Aucune lecture                   |
+| 10.11 10.12                   |                               |                                  |
 | Exercices supplémentaires sur les fichiers CSV                |                                  |
+
+
+
 
 ## Semaine 14
 
 Examen formatif
 
+<!--
 ## Semaine 15
 
 Il n'y a pas de nouvelle matière. 
