@@ -60,7 +60,7 @@ La première heure de cours est consacrée au contrôle.
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 10.11 10.12                   |                               | Aucune lecture                   |
 | Exercices supplémentaires sur les fichiers CSV                |                                  |
-
+-->
 ## Semaine 12
 #### Contrôle (15%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
@@ -70,16 +70,17 @@ La première heure de cours est consacrée au contrôle.
 | 10.8                          | 10.10                         |                                  |
 | 10.9                          |                               |                                  |
 
--->
 ## Semaine 11
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 9.1 9.3                       | 9.2                           | Chapitre 10                      |
-| 9.4 9.5 9.8 9.11 9.18         | 9.7 9.9 9.10 9.12 9.13 9.15   |                                  |
-| 9.22                          | 9.17 9.20                     |                                  |
-| 9.25                          |                               |                                  |
-| 12.1 12.8                     | 12.4 12.5                     |                                  |
-
+| 9.4 9.5 9.8 9.11 9.18         | 9.7 9.9 9.10 9.12 9.13 9.15   | Préparation pour le contrôle:    |
+| 9.22                          | 9.17 9.20                     | Mêmes sections que pour l'intra  |
+| 9.25                          |                               | plus               |
+| 12.1 12.8                     | 12.4 12.5                     | Sections 5.1 à 5.4               |
+|                               |                               | Sections 7.1 à 7.2               |
+|                               |                               | Sections 8.1 à 8.3               |
+|                               |                               | Sections 9.1 à 9.3               |
 
 ## Semaine 10
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
