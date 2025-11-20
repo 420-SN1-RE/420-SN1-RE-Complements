@@ -48,6 +48,8 @@ Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen f
 
 L'aide-mémoire disponible sur Lea sera fourni à l'examen.
 
+-->
+
 ## Semaine 14
 
 Examen formatif
@@ -60,7 +62,7 @@ La première heure de cours est consacrée au contrôle.
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 10.11 10.12                   |                               | Aucune lecture                   |
 | Exercices supplémentaires sur les fichiers CSV                |                                  |
--->
+
 ## Semaine 12
 #### Contrôle (15%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
