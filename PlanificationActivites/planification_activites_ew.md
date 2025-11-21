@@ -4,7 +4,7 @@
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
 | Exercice formatif             | Terminer l'exercice formatif  | Chapitres 0 et 1               |
-|                               |                               | Sections 2.1 et 3.1             |
+|                               |                               | Sections 2.1 et 3.1            |
 
 ## Semaine 2
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
@@ -117,9 +117,9 @@ Chapitre 7 et Section 12.3
 
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 10.8  10.9                    | 10.10                         | Aucune lecture                   |
+| 10.8  10.9                    | 10.7 10.10                    | Aucune lecture                   |
 | 10.11 10.12                   |                               |                                  |
-| Exercices supplémentaires sur les fichiers CSV                |                                  |
+| Exercice supplémentaire sur les fichiers CSV                                                     |
 
 
 
