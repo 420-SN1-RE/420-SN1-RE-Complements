@@ -157,7 +157,7 @@ Les locaux pour les différents groupes sont les suivants:
 
 L'examen final est un examen écrit. Il ne contiendra que des questions de code.
 
-Voici les sections du livre qui sont susceptibles pertinentes pour l'examen final:
+Voici les sections du livre qui sont susceptibles d'être pertinentes pour l'examen final:
 
 | Sections du livre                |
 |:--------------------------------:|
