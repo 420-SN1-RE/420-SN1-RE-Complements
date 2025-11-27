@@ -122,43 +122,42 @@ Chapitre 7 et Section 12.3
 | Exercice supplémentaire sur les fichiers CSV                                                     |
 
 
-
-
 ## Semaine 14
 
-Examen formatif
+Examen formatif en classe
 
-<!--
+
 ## Semaine 15
 
-Il n'y a pas de nouvelle matière. 
-Les modalités vous seront précisées par votre enseignante ou enseignant.
+Il n'y a pas de cours. Je serai toutefois disponible pour des questions pendant les périodes de cours.
+Vous pouvez vous présenter aux séances de cours que vous voulez. La priorité est toutefois donnée aux
+étudiants qui sont dans leur période normale de cours.
+
+| Période                                    | Local |
+|:------------------------------------------:|:-----:|
+| Mardi le 9 décembre de 9h00 à 12h00        | S-016 |
+| Mercredi le 10 décembre de 12h00 à 15h00   | S-016 |
+| Vendredi le 12 décembre de 12h00 à 15h00   | S-031 |
+| Lundi le 15 décembre de 8h00 à 11h00       | S-031 |
+
+
 
 ## Examen final
 
-L'examen final sera le XX décembre de XXh00 à XXh00.
+L'examen final sera le 18 décembre de 15h00 à 18h00.
 
 Les locaux pour les différents groupes sont les suivants:
 
-| Groupe            | Local d'examen  |
-|:-----------------:|:---------------:|
-| 001               | S-106           |
-| 002               | S-112           |
-| 003               | U-113-S7        |
-| 004               | U-113-S8        |
-| 005               | Y-248-S07       |
-| 006               | Y-248-S08       |
-| 007               | Y-248-S09       |
-| 008               | Y-248-S10       |
-| 009               | Y-248-S11       |
-| 010               | Y-248-S01       |
-| 011               | Y-248-S02       |
-| 012               | Y-248-S03       |
+| Groupe    | Local d'examen  |
+|:---------:|:---------------:|
+| 007       | Y-248-S-09      |
+| 008       | Y-248-S-10      |
+| 009       | Y-248-S-11      |
+| 010       | Y-248-S-12      |
 
+L'examen final est un examen écrit. Il ne contiendra que des questions de code.
 
-L'examen final ne contiendra que des questions de code comme l'examen formatif.
-
-Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen final:
+Voici les sections du livre qui sont susceptibles pertinentes pour l'examen final:
 
 | Sections du livre                |
 |:--------------------------------:|
@@ -174,5 +173,4 @@ Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen f
 | Sections 10.1, 10.2, 10.4 et 10.5 |
 | Sections 12.1 à 12.3 inclusivement |
 
-L'aide-mémoire disponible sur Lea sera fourni à l'examen.
--->
+L'aide-mémoire disponible sur Lea sera distribué à l'examen.
