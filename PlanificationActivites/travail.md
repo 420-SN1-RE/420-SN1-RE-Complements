@@ -1,32 +1,8 @@
 # Planification du travail hebdomadaire
 
-<!--
-## Semaine 15
-
-Il n'y a pas de nouvelle matière. 
-Les modalités vous seront précisées par votre enseignante ou enseignant.
-
 ## Examen final
 
-L'examen final sera le XX décembre de XXh00 à XXh00.
-
-Les locaux pour les différents groupes sont les suivants:
-
-| Groupe            | Local d'examen  |
-|:-----------------:|:---------------:|
-| 001               | S-106           |
-| 002               | S-112           |
-| 003               | U-113-S7        |
-| 004               | U-113-S8        |
-| 005               | Y-248-S07       |
-| 006               | Y-248-S08       |
-| 007               | Y-248-S09       |
-| 008               | Y-248-S10       |
-| 009               | Y-248-S11       |
-| 010               | Y-248-S01       |
-| 011               | Y-248-S02       |
-| 012               | Y-248-S03       |
-
+L'examen final sera le 18 décembre de 15h00 à 18h00.
 
 L'examen final ne contiendra que des questions de code comme l'examen formatif.
 
@@ -48,7 +24,10 @@ Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen f
 
 L'aide-mémoire disponible sur Lea sera fourni à l'examen.
 
--->
+## Semaine 15
+
+Il n'y a pas de nouvelle matière. 
+Les modalités vous seront précisées par votre enseignante ou enseignant.
 
 ## Semaine 14
 
