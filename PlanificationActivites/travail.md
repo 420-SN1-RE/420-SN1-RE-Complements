@@ -1,5 +1,5 @@
 # Planification du travail hebdomadaire
-
+<!--
 ## Examen final
 
 L'examen final sera le 18 décembre de 15h00 à 18h00.
@@ -89,7 +89,7 @@ Chapitre 7 et Section 12.3
 
 Examen le 16 octobre de 12h00 à 13h50
 
-<!--
+
 | Groupe            | Local d'examen  |
 |:-----------------:|:---------------:|
 | 001               | S-106/S-112     |
@@ -108,7 +108,7 @@ Examen le 16 octobre de 12h00 à 13h50
 Les cours de la semaine 8 sont en principe annulés et remplacés par la période d'examen.
 
 Les modalités vous seront précisées par votre enseignante ou enseignant.
--->
+
 
 ## Semaine 7
 
@@ -153,6 +153,7 @@ Les modalités vous seront précisées par votre enseignante ou enseignant.
 | 3.14 3.16 3.18                | 3.15 3.17 3.19                |                                |
 |                               | 3.24 3.25                     |                                |
 
+
 ## Semaine 2
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
@@ -162,6 +163,7 @@ Les modalités vous seront précisées par votre enseignante ou enseignant.
 | 1.18                          | 1.17 1.19 1.21  1.23          |                                |
 | 2.1 2.2                       |                               |                                |
 
+-->
 ## Semaine 1
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
