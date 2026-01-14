@@ -42,8 +42,7 @@
 | 6.5 6.6 6.7                   | 6.8 6.9 6.10                  |                                  |
 | 6.12 6.13                     | 6.14                          |                                  |
 
-ATTENTION: Pour les groupes qui ont leur séance de cours le lundi ou le mardi, les semaines 6 et 7
-           sont inversées.
+ATTENTION: Pour le groupe 001 (lundi 8h00), les semaines 6 et 7 sont inversées.
 
 ## Semaine 6
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
@@ -64,8 +63,8 @@ ATTENTION: Pour les groupes qui ont leur séance de cours le lundi ou le mardi, 
 
 ## Semaine 8
 
-Examen le 16 octobre de 12h00 à 13h50
-
+Examen le 19 mars de 12h00 à 13h50. Les locaux sont à confirmer.
+<!--
 | Groupe            | Local d'examen  |
 |:-----------------:|:---------------:|
 | 007               | R-135           |
@@ -78,7 +77,6 @@ Les cours de la semaine 8 sont annulés et remplacés par la période d'examen.
 ATTENTION: Lecture pour la semaine 9
 
 Chapitre 7 et Section 12.3
-
 
 ## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
@@ -174,3 +172,4 @@ Voici les sections du livre qui sont susceptibles d'être pertinentes pour l'exa
 | Sections 12.1 à 12.3 inclusivement |
 
 L'aide-mémoire disponible sur Lea sera distribué à l'examen.
+-->
