@@ -144,6 +144,7 @@ Les modalités vous seront précisées par votre enseignante ou enseignant.
 | 4.17                          | 4.15 4.16                     |                                |
 | 6.1 6.2 6.3                   | 6.4                           |                                |
 
+-->
 ## Semaine 3
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
@@ -153,7 +154,7 @@ Les modalités vous seront précisées par votre enseignante ou enseignant.
 | 3.14 3.16 3.18                | 3.15 3.17 3.19                |                                |
 |                               | 3.24 3.25                     |                                |
 
--->
+
 ## Semaine 2
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
