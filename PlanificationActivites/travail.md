@@ -128,7 +128,7 @@ Les modalités vous seront précisées par votre enseignante ou enseignant.
 |                               | 5.18 5.19 5.20 5.21 5.22 5.25 | Sections 3.1 à 3.4 inclusivement |
 |                               |                               | Sections 4.1 à 4.4 inclusivement |
 |                               |                               | Sections 6.1 à 6.5 inclusivement |
-
+-->
 ## Semaine 5
 ### Quiz (10%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
@@ -136,7 +136,6 @@ Les modalités vous seront précisées par votre enseignante ou enseignant.
 | 6.5 6.6 6.7                   | 6.8 6.9 6.10                  | Chapitre 5                       |
 | 6.12 6.13                     | 6.14                          |                                  |
 
--->
 ## Semaine 4
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
