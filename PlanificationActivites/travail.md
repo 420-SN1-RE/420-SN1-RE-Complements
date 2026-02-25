@@ -109,7 +109,7 @@ Les cours de la semaine 8 sont en principe annulés et remplacés par la périod
 
 Les modalités vous seront précisées par votre enseignante ou enseignant.
 
-
+-->
 ## Semaine 7
 
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
@@ -118,10 +118,8 @@ Les modalités vous seront précisées par votre enseignante ou enseignant.
 |                               |                               | Voir semaine 6                   |
 
 
--->
-
 ## Semaine 6
-
+Pour les groupes dont les séances sont le lundi, l'examen formatif sera le 9 mars
 
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
