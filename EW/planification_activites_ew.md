@@ -77,7 +77,7 @@ Les cours de la semaine 8 sont annulés et remplacés par la période d'examen.
 Périodes de récupération avant l'examen:
 | Période                                    | Local |
 |:------------------------------------------:|:-----:|
-| Mardi le 17 mars de 10h00 à 13h50          | S-031 |
+| Mardi le 17 mars de 12h00 à 13h50          | S-031 |
 | Mercredi le 18 mars de 8h00 à 10h50        | H-015 |
 | Mercredi le 18 mars de 11h00 à 14h50       | H-015 |
 
