@@ -74,7 +74,7 @@ Examen le 19 mars de 12h00 à 13h50.
 
 Les cours de la semaine 8 sont annulés et remplacés par la période d'examen.
 
-Période de récupération avant l'examen:
+Périodes de récupération avant l'examen:
 | Période                                    | Local |
 |:------------------------------------------:|:-----:|
 | Mardi le 17 mars de 10h00 à 13h50          | S-031 |
