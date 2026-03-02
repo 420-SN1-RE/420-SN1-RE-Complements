@@ -64,19 +64,26 @@ ATTENTION: Pour le groupe 001 (lundi 8h00), les semaines 6 et 7 sont inversées.
 ## Semaine 8
 
 Examen le 19 mars de 12h00 à 13h50. Les locaux sont à confirmer.
-<!--
 | Groupe            | Local d'examen  |
 |:-----------------:|:---------------:|
-| 007               | R-135           |
-| 008               | R-135           |
-| 009               | R-135           |
-| 010               | S-129           |
+| 001               | R-135           |
+| 002               | R-135           |
+| 003               | R-135           |
+| 004               | S-258           |
+| 005               | S-259           |
 
 Les cours de la semaine 8 sont annulés et remplacés par la période d'examen.
+
+Toutefois, il y aura deux périodes de récupération additionnelles:
+
+Mardi le 17 mars de 8h00 à 11h00 au H-015
+Mardi le 17 mars de 12h00 à 15h00 au H-015
 
 ATTENTION: Lecture pour la semaine 9
 
 Chapitre 7 et Section 12.3
+
+<!--
 
 ## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
