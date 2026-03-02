@@ -77,6 +77,7 @@ Les cours de la semaine 8 sont annulés et remplacés par la période d'examen.
 Toutefois, il y aura deux périodes de récupération additionnelles:
 
 Mardi le 17 mars de 8h00 à 11h00 au H-015
+
 Mardi le 17 mars de 12h00 à 15h00 au H-015
 
 ATTENTION: Lecture pour la semaine 9
