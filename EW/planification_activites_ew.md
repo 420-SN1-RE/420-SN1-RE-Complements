@@ -63,7 +63,7 @@ ATTENTION: Pour le groupe 001 (lundi 8h00), les semaines 6 et 7 sont inversées.
 
 ## Semaine 8
 
-Examen le 19 mars de 12h00 à 13h50. Les locaux sont à confirmer.
+Examen le 19 mars de 12h00 à 13h50.
 | Groupe            | Local d'examen  |
 |:-----------------:|:---------------:|
 | 001               | R-135           |
@@ -74,16 +74,16 @@ Examen le 19 mars de 12h00 à 13h50. Les locaux sont à confirmer.
 
 Les cours de la semaine 8 sont annulés et remplacés par la période d'examen.
 
-Toutefois, il y aura deux périodes de récupération additionnelles:
-
-Mardi le 17 mars de 8h00 à 11h00 au H-015
-
-Mardi le 17 mars de 12h00 à 15h00 au H-015
+Période de récupération avant l'examen:
+| Période                                    | Local |
+|:------------------------------------------:|:-----:|
+| Mardi le 17 mars de 10h00 à 13h50          | S-031 |
+| Mercredi le 18 mars de 8h00 à 10h50        | H-015 |
+| Mercredi le 18 mars de 11h00 à 14h50       | H-015 |
 
 ATTENTION: Lecture pour la semaine 9
 
 Chapitre 7 et Section 12.3
-
 
 ## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
@@ -110,7 +110,6 @@ Chapitre 7 et Section 12.3
 | 9.25                          |                               |                                  |
 | 12.1 12.8                     | 12.4 12.5                     |                                  |
 
-
 ## Semaine 12
 #### Contrôle (15%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
@@ -126,14 +125,14 @@ Chapitre 7 et Section 12.3
 | 10.11 10.12                   |                               |                                  |
 | Exercice supplémentaire sur les fichiers CSV                                                     |
 
-
 ## Semaine 14
 
 Examen formatif en classe
 
-<!--
-
 ## Semaine 15
+
+Examen final dans la période d'examens communs. Détails à suivre.
+<!--
 
 Il n'y a pas de cours. Je serai toutefois disponible pour des questions pendant les périodes de cours.
 Vous pouvez vous présenter aux séances de cours que vous voulez. La priorité est toutefois donnée aux
