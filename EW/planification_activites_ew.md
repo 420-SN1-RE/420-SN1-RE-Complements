@@ -83,7 +83,6 @@ ATTENTION: Lecture pour la semaine 9
 
 Chapitre 7 et Section 12.3
 
-<!--
 
 ## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
@@ -131,6 +130,7 @@ Chapitre 7 et Section 12.3
 
 Examen formatif en classe
 
+<!--
 
 ## Semaine 15
 
