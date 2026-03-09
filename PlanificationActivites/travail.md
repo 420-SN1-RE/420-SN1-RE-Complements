@@ -85,31 +85,37 @@ Chapitre 7 et Section 12.3
 | 7.8 7.10 7.13 7.17            | 7.9  7.14 7.18                |                                  |
 | 12.15 12.16 12.17 12.23       | 12.18 12.19 12.20             |                                  |
 
+-->
 ## Semaine 8
 
-Examen le 16 octobre de 12h00 à 13h50
+Examen le 19 mars de 12h00 à 13h50
 
 
 | Groupe            | Local d'examen  |
 |:-----------------:|:---------------:|
-| 001               | S-106/S-112     |
-| 002               | S-106/S-112     |
-| 003               | S-232           |
-| 004               | S-107           |
-| 005               | S-338           |
-| 006               | S-134           |
-| 007               | R-135           |
-| 008               | R-135           |
-| 009               | R-135           |
-| 010               | S-129           |
-| 011               | S-309           |
-| 012               | S-317           |
+| 001               | R-135           |
+| 002               | R-135           |
+| 003               | R-135           |
+| 004               | S-258           |
+| 005               | S-259           |
+| 006               | S-317           |
+| 007               | S-324           |
+| 008               | S-333           |
+| 009               | S-338           |
+| 010               | S-346           |
+| 011               | S-406           |
+| 012               | S-409           |
+| 013               | S-412           |
+| 014               | S-420           |
+| 015               | B-239           |
+| 016               | B-249           |
+| 017               | B-261           |
+| 018               | B-278           |
 
 Les cours de la semaine 8 sont en principe annulés et remplacés par la période d'examen.
 
 Les modalités vous seront précisées par votre enseignante ou enseignant.
 
--->
 ## Semaine 7
 
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
