@@ -79,7 +79,7 @@ Périodes de récupération avant l'examen:
 |:------------------------------------------:|:-----:|
 | Mardi le 17 mars de 12h00 à 13h50          | S-031 |
 | Mercredi le 18 mars de 8h00 à 9h50         | H-015 |
-| Mercredi le 18 mars de 12h00 à 14h50       | H-015 |
+| Mercredi le 18 mars de 13h00 à 14h50       | H-015 |
 
 ATTENTION: Lecture pour la semaine 9
 
