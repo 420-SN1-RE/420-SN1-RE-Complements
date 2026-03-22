@@ -72,6 +72,7 @@ La première heure de cours est consacrée au contrôle.
 | 8.19                          | 8.21 8.22                     |                                  |
 | 12.9 12.13                    | 12.14                         |                                  |
 
+-->
 ## Semaine 9
 
 ATTENTION: Lecture pour la semaine 9
@@ -85,7 +86,7 @@ Chapitre 7 et Section 12.3
 | 7.8 7.10 7.13 7.17            | 7.9  7.14 7.18                |                                  |
 | 12.15 12.16 12.17 12.23       | 12.18 12.19 12.20             |                                  |
 
--->
+
 ## Semaine 8
 
 Examen le 19 mars de 12h00 à 13h50
