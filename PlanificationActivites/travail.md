@@ -64,6 +64,7 @@ La première heure de cours est consacrée au contrôle.
 |                               |                               | Sections 9.1 à 9.3               |
 |                               |                               | Sections 12.1 à 12.3             |
 
+-->
 ## Semaine 10
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
@@ -72,7 +73,7 @@ La première heure de cours est consacrée au contrôle.
 | 8.19                          | 8.21 8.22                     |                                  |
 | 12.9 12.13                    | 12.14                         |                                  |
 
--->
+
 ## Semaine 9
 
 ATTENTION: Lecture pour la semaine 9
