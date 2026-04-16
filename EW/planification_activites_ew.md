@@ -122,7 +122,7 @@ Chapitre 7 et Section 12.3
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 10.8  10.9                    | 10.7 10.10                    | Aucune lecture                   |
-| 10.11 10.12                   |                               |                                  |
+|                               | 10.11 10.12                   |                                  |
 | Exercice supplémentaire sur les fichiers CSV                                                     |
 
 ## Semaine 14
