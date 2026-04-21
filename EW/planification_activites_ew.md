@@ -145,7 +145,7 @@ sont dans leur période normale de cours.
 | Mercredi le 20 mai de 9h00 à 11h40         | H-015 |
 | Mercredi le 20 mai de 12h40 à 15h20        | H-015 |
 
-<--
+<!--
 ## Examen final
 
 L'examen final sera le 28 mai de 12h30 à 15h30.
