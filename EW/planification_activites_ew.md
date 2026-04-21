@@ -131,8 +131,7 @@ Examen formatif en classe
 
 ## Semaine 15
 
-Examen final dans la période d'examens communs. Détails à suivre.
-<!--
+Examen final dans la période d'examens communs.
 
 Il n'y a pas de cours. Je serai toutefois disponible pour des questions pendant les périodes de cours.
 Vous pouvez vous présenter aux séances de cours que vous voulez. La priorité est toutefois donnée aux
@@ -149,16 +148,18 @@ Vous pouvez vous présenter aux séances de cours que vous voulez. La priorité 
 
 ## Examen final
 
-L'examen final sera le 18 décembre de 15h00 à 18h00.
+L'examen final sera le 28 mai de 12h30 à 15h30.
 
 Les locaux pour les différents groupes sont les suivants:
 
 | Groupe    | Local d'examen  |
 |:---------:|:---------------:|
-| 007       | Y-248-S-09      |
-| 008       | Y-248-S-10      |
-| 009       | Y-248-S-11      |
-| 010       | Y-248-S-12      |
+| 001       | Y-248-S-01      |
+| 002       | Y-248-S-02      |
+| 003       | Y-248-S-03      |
+| 004       | Y-248-S-04      |
+| 005       | Y-248-S-05      |
+
 
 L'examen final est un examen écrit. Il ne contiendra que des questions de code.
 
@@ -179,4 +180,3 @@ Voici les sections du livre qui sont susceptibles d'être pertinentes pour l'exa
 | Sections 12.1 à 12.3 inclusivement |
 
 L'aide-mémoire disponible sur Lea sera distribué à l'examen.
--->
