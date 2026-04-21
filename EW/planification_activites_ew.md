@@ -134,18 +134,18 @@ Examen formatif en classe
 Examen final dans la période d'examens communs.
 
 Il n'y a pas de cours. Je serai toutefois disponible pour des questions pendant les périodes de cours.
-Vous pouvez vous présenter aux séances de cours que vous voulez. La priorité est toutefois donnée aux
-étudiants qui sont dans leur période normale de cours.
+Vous pouvez vous présenter aux séances que vous voulez. La priorité est toutefois donnée aux étudiants qui
+sont dans leur période normale de cours.
 
 | Période                                    | Local |
 |:------------------------------------------:|:-----:|
-| Mardi le 9 décembre de 9h00 à 12h00        | S-016 |
-| Mercredi le 10 décembre de 12h00 à 15h00   | S-016 |
-| Vendredi le 12 décembre de 12h00 à 15h00   | S-031 |
-| Lundi le 15 décembre de 8h00 à 11h00       | S-031 |
+| jeudi le 14 mai de 9h00 à 11h40            | H-008 |
+| Vendredi le 15 mai de 9h00 à 11h40         | S-031 |
+| Vendredi le 15 mai de 12h40 à 15h20        | S-031 |
+| Mercredi le 20 mai de 9h00 à 11h40         | H-015 |
+| Mercredi le 20 mai de 12h40 à 15h20        | H-015 |
 
-
-
+<--
 ## Examen final
 
 L'examen final sera le 28 mai de 12h30 à 15h30.
@@ -159,7 +159,6 @@ Les locaux pour les différents groupes sont les suivants:
 | 003       | Y-248-S-03      |
 | 004       | Y-248-S-04      |
 | 005       | Y-248-S-05      |
-
 
 L'examen final est un examen écrit. Il ne contiendra que des questions de code.
 
@@ -180,3 +179,4 @@ Voici les sections du livre qui sont susceptibles d'être pertinentes pour l'exa
 | Sections 12.1 à 12.3 inclusivement |
 
 L'aide-mémoire disponible sur Lea sera distribué à l'examen.
+-->
