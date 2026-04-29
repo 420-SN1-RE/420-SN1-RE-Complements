@@ -25,6 +25,27 @@ Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen f
 
 L'aide-mémoire disponible sur Lea sera fourni à l'examen.
 
+| Groupe            | Local d'examen  |
+|:-----------------:|:---------------:|
+| 001               | Y-248-S01       |
+| 002               | Y-248-S02       |
+| 003               | Y-248-S03       |
+| 004               | Y-248-S04       |
+| 005               | Y-248-S05       |
+| 006               | Y-248-S07       |
+| 007               | Y-248-S08       |
+| 008               | Y-248-S09       |
+| 009               | Y-248-S10       |
+| 010               | U-113-S3        |
+| 011               | U-113-S1        |
+| 012               | U-113-S2        |
+| 013               | Y-248-S12       |
+| 014               | U-113-S5        |
+| 015               | U-113-S6        |
+| 016               | Y-248-S11       |
+| 017               | Y-248-S06       |
+| 018               | U-113-S7        |
+
 ## Semaine 15
 
 Il n'y a pas de nouvelle matière. 
