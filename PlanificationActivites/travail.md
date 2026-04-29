@@ -1,8 +1,9 @@
 # Planification du travail hebdomadaire
 <!--
+-->
 ## Examen final
 
-L'examen final sera le 18 décembre de 15h00 à 18h00.
+L'examen final sera le 28 mai de 12h30 à 15h30.
 
 L'examen final ne contiendra que des questions de code comme l'examen formatif.
 
@@ -24,7 +25,6 @@ Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen f
 
 L'aide-mémoire disponible sur Lea sera fourni à l'examen.
 
--->
 ## Semaine 15
 
 Il n'y a pas de nouvelle matière. 
