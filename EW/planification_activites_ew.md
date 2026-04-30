@@ -145,7 +145,7 @@ sont dans leur période normale de cours.
 | Mercredi le 20 mai de 9h00 à 11h40         | H-015 |
 | Mercredi le 20 mai de 12h40 à 15h20        | H-015 |
 
-<!--
+
 ## Examen final
 
 L'examen final sera le 28 mai de 12h30 à 15h30.
@@ -175,8 +175,7 @@ Voici les sections du livre qui sont susceptibles d'être pertinentes pour l'exa
 | Sections 7.1 à 7.2 inclusivement |
 | Sections 8.1 à 8.3 inclusivement |
 | Sections 9.1 à 9.5 inclusivement |
-| Sections 10.1, 10.2, 10.4 et 10.5 |
+| Sections 10.1 à 10.5 inclusivement |
 | Sections 12.1 à 12.3 inclusivement |
 
 L'aide-mémoire disponible sur Lea sera distribué à l'examen.
--->
