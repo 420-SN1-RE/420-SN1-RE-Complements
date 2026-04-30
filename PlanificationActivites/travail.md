@@ -20,7 +20,7 @@ Voici les sections du livre qui sont susceptibles d'être utiles pour l'examen f
 | Sections 7.1 à 7.2 inclusivement |
 | Sections 8.1 à 8.3 inclusivement |
 | Sections 9.1 à 9.5 inclusivement |
-| Sections 10.1 à 10.5             |
+| Sections 10.1 à 10.5 inclusivement |
 | Sections 12.1 à 12.3 inclusivement |
 
 L'aide-mémoire disponible sur Lea sera fourni à l'examen.
