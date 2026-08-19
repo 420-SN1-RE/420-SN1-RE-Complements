@@ -148,17 +148,7 @@ sont dans leur période normale de cours.
 
 ## Examen final
 
-L'examen final sera le 28 mai de 12h30 à 15h30.
-
-Les locaux pour les différents groupes sont les suivants:
-
-| Groupe    | Local d'examen  |
-|:---------:|:---------------:|
-| 001       | Y-248-S-01      |
-| 002       | Y-248-S-02      |
-| 003       | Y-248-S-03      |
-| 004       | Y-248-S-04      |
-| 005       | Y-248-S-05      |
+La date et les locaux pour l'examen final seront déterminés par le Collège ultérieurement.
 
 L'examen final est un examen écrit. Il ne contiendra que des questions de code.
 
