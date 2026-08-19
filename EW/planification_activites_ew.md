@@ -139,12 +139,10 @@ sont dans leur période normale de cours.
 
 | Période                                    | Local |
 |:------------------------------------------:|:-----:|
-| jeudi le 14 mai de 8h00 à 11h00            | H-008 |
-| Vendredi le 15 mai de 8h00 à 11h00         | S-031 |
-| Vendredi le 15 mai de 12h00 à 15h00        | S-031 |
-| Mercredi le 20 mai de 8h00 à 11h00         | H-015 |
-| Mercredi le 20 mai de 12h00 à 15h00        | H-015 |
-
+| Mercredi le 9 décembre de 8h00 à 11h00     | H-008 |
+| Mercredi le 9 décembre de 12h00 à 15h00    | H-015 |
+| Vendredi le 11 décembre de 8h00 à 11h00    | H-008 |
+| Lundi le 14 décembre de 8h00 à 11h00       | H-015 |
 
 ## Examen final
 
