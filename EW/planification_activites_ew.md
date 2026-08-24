@@ -18,31 +18,25 @@
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
 | 2.1 2.2                       |                               |                                |
 | 2.6                           | 2.4 2.5                       | Chapitre 4                     |
-| 2.8 2.9     	                | 2.10 2.11 2.13                | Section 6.1                    |
+| 2.8 2.9     	                | 2.10 2.11 2.13                |                                |
 | 3.4 3.9                       | 3.3 3.5 3.6 3.7               |                                |
 | #1 du formatif-2              |                               |                                |
 | 3.14                          | 3.15 3.16 3.17 3.18 3.19      |                                |
 |                               | 3.24 3.25                     |                                |
-
-
-
+<!--
 ## Semaine 4
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 4.1 4.2 4.5                   | 4.4 4.6                       | Préparation Quiz (Chap. 1 à 3) |
-| 4.8 4.9                       | 4.12                          | Chapitre 6 (pas 5 !)           |
+| 4.1 4.2 4.5                   | 4.4 4.6                       | Chapitre 6 (pas 5 !)           |
+| 4.8 4.9                       | 4.12                          |                                |
 | 4.17                          | 4.15 4.16                     |                                |
-| 6.1 6.2 6.3                   | 6.4                           |                                |
-
 
 ## Semaine 5
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| Début du cours: Quiz (10%)    |                               | Chapitre 5                       |
-| 6.5 6.6 6.7                   | 6.8 6.9 6.10                  |                                  |
+| 6.1 6.2 6.3                   | 6.4                           |                                |
+| 6.5 6.6 6.7                   | 6.8 6.9 6.10                  | Aucune                           |
 | 6.12 6.13                     | 6.14                          |                                  |
-
-ATTENTION: Pour le groupe 001 (lundi 8h00), les semaines 6 et 7 sont inversées.
 
 ## Semaine 6
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
@@ -165,5 +159,6 @@ Voici les sections du livre qui sont susceptibles d'être pertinentes pour l'exa
 | Sections 9.1 à 9.5 inclusivement |
 | Sections 10.1 à 10.5 inclusivement |
 | Sections 12.1 à 12.3 inclusivement |
+-->
 
 L'aide-mémoire disponible sur Lea sera distribué à l'examen.
