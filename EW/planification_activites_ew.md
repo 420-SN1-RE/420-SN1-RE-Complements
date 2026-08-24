@@ -159,6 +159,6 @@ Voici les sections du livre qui sont susceptibles d'être pertinentes pour l'exa
 | Sections 9.1 à 9.5 inclusivement |
 | Sections 10.1 à 10.5 inclusivement |
 | Sections 12.1 à 12.3 inclusivement |
+L'aide-mémoire disponible sur Lea sera distribué à l'examen.
 -->
 
-L'aide-mémoire disponible sur Lea sera distribué à l'examen.
