@@ -48,10 +48,10 @@
 |                               |                               | Voir semaine 5                   |
 
 ## Semaine 7
+#### Intra-1 (20%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | Examen intra-1                |                               | Chapitre 5                       |
-|                               |                               |                                  |
 | 5.1 5.2 5.3 5.5               | 5.4 5.6 5.7                   |                                  |
 
 ## Semaine 8
@@ -60,8 +60,6 @@
 | 5.8 5.9 5.10                  |                               | Chapitre 7                       |
 | 5.11                          | 5.13 5.14 5.15                | Section 12.3                     |
 |                               | 5.18 5.19 5.20 5.21 5.22 5.25 |                                  |
-|                               |                               
-|                               |                               
 
 ## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
@@ -95,11 +93,10 @@
 |                               |                               | Sections 12.1 à 12.3 inclusivement |
 
 ## Semaine 12
-#### Contrôle (15%)
+#### Intra-2 (25%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | Examen intra-2                |                               | Chapitre 10                      |
-|                               |                               |                                  |
 | 9.29 9.30 9.32                | 9.33 9.34 9.36                |                                  |
 
 ## Semaine 13
