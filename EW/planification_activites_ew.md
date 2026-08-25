@@ -96,9 +96,8 @@
 #### Intra-2 (25%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| Examen intra-2                |                               | Préparation pour intra-2:        |
-|                               |                               | Voir semaine 11                  |
-| 9.29 9.30 9.32                | 9.33 9.34 9.36                | Chapitre 10                      |
+| Examen intra-2                |                               | Chapitre 10                      |
+| 9.29 9.30 9.32                | 9.33 9.34 9.36                |                                  |
 
 ## Semaine 13
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
