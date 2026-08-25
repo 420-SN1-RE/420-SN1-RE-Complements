@@ -44,7 +44,7 @@
 ## Semaine 6
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
+| Examen formatif               | Préparation pour l'examen     | Préparation pour l'intra-1:      |
 |                               |                               | Voir semaine 5                   |
 
 ## Semaine 7
