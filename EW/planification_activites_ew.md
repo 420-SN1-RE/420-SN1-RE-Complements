@@ -23,7 +23,7 @@
 | #1 du formatif-2              |                               |                                |
 | 3.14                          | 3.15 3.16 3.17 3.18 3.19      |                                |
 |                               | 3.24 3.25                     |                                |
-<!--
+
 ## Semaine 4
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
@@ -34,57 +34,41 @@
 ## Semaine 5
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 6.1 6.2 6.3                   | 6.4                           |                                |
-| 6.5 6.6 6.7                   | 6.8 6.9 6.10                  | Aucune                           |
-| 6.12 6.13                     | 6.14                          |                                  |
+| 6.1 6.2 6.3                   | 6.4                           | Préparation pour l'intra-1:      |
+| 6.5 6.6 6.7                   | 6.8 6.9 6.10                  | Sections 1.1 à 1.5 inclusivement |
+| 6.12 6.13                     | 6.14                          | Sections 2.1 à 2.3 inclusivement |
+|                               |                               | Sections 3.1 à 3.4 inclusivement |
+|                               |                               | Sections 4.1 à 4.4 inclusivement |
+|                               |                               | Sections 6.1 à 6.5 inclusivement |
 
 ## Semaine 6
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 5.1 5.2 5.3 5.5               | 5.4 5.6 5.7                   | Préparation pour l'examen intra: |
-| 5.8 5.9 5.10                  |                               | Sections 1.1 à 1.5 inclusivement |
-| 5.11                          | 5.13 5.14 5.15                | Sections 2.1 à 2.3 inclusivement |
-|                               | 5.18 5.19 5.20 5.21 5.22 5.25 | Sections 3.1 à 3.4 inclusivement |
-|                               |                               | Sections 4.1 à 4.4 inclusivement |
-|                               |                               | Sections 6.1 à 6.5 inclusivement |
+| Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
+|                               |                               | Voir semaine 5                   |
 
 ## Semaine 7
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| Examen formatif               | Préparation pour l'examen     | Préparation pour l'examen intra: |
-|                               |                               | Voir semaine 6                   |
-
+| Examen intra-1                |                               | Chapitre 5                       |
+|                               |                               |                                  |
+| 5.1 5.2 5.3 5.5               | 5.4 5.6 5.7                   |                                  |
 
 ## Semaine 8
-
-Examen le 19 mars de 12h00 à 13h50.
-| Groupe            | Local d'examen  |
-|:-----------------:|:---------------:|
-| 001               | R-135           |
-| 002               | R-135           |
-| 003               | R-135           |
-| 004               | S-258           |
-| 005               | S-259           |
-
-Les cours de la semaine 8 sont annulés et remplacés par la période d'examen.
-
-Périodes de récupération avant l'examen:
-| Période                                    | Local |
-|:------------------------------------------:|:-----:|
-| Mardi le 17 mars de 12h00 à 13h50          | S-031 |
-| Mercredi le 18 mars de 8h00 à 9h50         | H-015 |
-| Mercredi le 18 mars de 13h00 à 14h50       | H-015 |
-
-ATTENTION: Lecture pour la semaine 9
-
-Chapitre 7 et Section 12.3
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
+|:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| 5.8 5.9 5.10                  |                               | Chapitre 7                       |
+| 5.11                          | 5.13 5.14 5.15                | Section 12.3                     |
+|                               | 5.18 5.19 5.20 5.21 5.22 5.25 |                                  |
+|                               |                               
+|                               |                               
 
 ## Semaine 9
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | 7.1 7.2                       |                               | Chapitre 8                       |
 | 7.3 7.5 7.7                   | 7.6                           | Sections 12.1 et 12.2            |
-| 7.8 7.10 7.13 7.17            | 7.9 7.14 7.18                |                                  |
+| 7.8 7.10 7.13 7.17            | 7.9 7.14 7.18                 |                                  |
 | 12.15 12.16 12.17 12.23       | 12.18 12.19 12.20             |                                  |
 
 ## Semaine 10
@@ -96,28 +80,36 @@ Chapitre 7 et Section 12.3
 | 12.9 12.13                    | 12.14                         |                                  |
 
 ## Semaine 11
-| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
-|:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 9.1 9.3                       | 9.2                           | Chapitre 10                      |
-| 9.4 9.5 9.8 9.11 9.18         | 9.7 9.9 9.10 9.12 9.13 9.15   |                                  |
-| 9.22                          | 9.17 9.20                     |                                  |
-| 9.25                          |                               |                                  |
-| 12.1 12.8                     | 12.4 12.5                     |                                  |
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours     |
+|:-----------------------------:|:-----------------------------:|:----------------------------------:|
+| 9.1 9.3                       | 9.2                           | Préparation pour intra-2:          |
+| 9.4 9.5 9.8 9.11 9.18         | 9.7 9.9 9.10 9.12 9.13 9.15   | Sections 1.1 à 1.5 inclusivement   |
+| 9.22                          | 9.17 9.20                     | Sections 2.1 à 2.3 inclusivement   |
+| 9.25                          |                               | Sections 3.1 à 3.4 inclusivement   |
+| 12.1 12.8                     | 12.4 12.5                     | Sections 4.1 à 4.4 inclusivement   |
+|                               |                               | Sections 5.1 à 5.3 inclusivement   |
+|                               |                               | Sections 6.1 à 6.5 inclusivement   |
+|                               |                               | Sections 7.1 à 7.2 inclusivement   |
+|                               |                               | Sections 8.1 à 8.3 inclusivement   |
+|                               |                               | Sections 9.1 à 9.4 inclusivement   |
+|                               |                               | Sections 12.1 à 12.3 inclusivement |
 
 ## Semaine 12
 #### Contrôle (15%)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 9.29 9.30 9.32                | 9.33 9.34 9.36                | Aucune lecture                   |
-| 10.2 10.3                     | 10.4 10.5                     |                                  |
+| Examen intra-2                |                               | Chapitre 10                      |
+|                               |                               |                                  |
+| 9.29 9.30 9.32                | 9.33 9.34 9.36                |                                  |
 
 ## Semaine 13
 
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| 10.2 10.3                     | 10.4 10.5                     |                                  |
 | 10.8  10.9                    | 10.7 10.10                    | Aucune lecture                   |
 |                               | 10.11 10.12                   |                                  |
-| Exercice supplémentaire sur les fichiers CSV                                                     |
+| Exercice supplémentaire sur les fichiers CSV                  |                                  |
 
 ## Semaine 14
 
@@ -160,5 +152,4 @@ Voici les sections du livre qui sont susceptibles d'être pertinentes pour l'exa
 | Sections 10.1 à 10.5 inclusivement |
 | Sections 12.1 à 12.3 inclusivement |
 L'aide-mémoire disponible sur Lea sera distribué à l'examen.
--->
 
