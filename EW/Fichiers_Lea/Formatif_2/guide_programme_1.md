@@ -39,7 +39,7 @@ Voici le programme #1 après sa réalisation:
 
 Il est possible de tester les fonctions indépendamment des programmes. Chaque fonction contient une cellule de tests que vous pouvez exécuter de façon indépendante. La cellule contient des tests ainsi que la sortie attendue de chaque test:
 
-<img width="440" height="171" alt="image" src="assets/tests_foonctions.png" />
+<img width="440" height="171" alt="image" src="assets/tests_fonctions.png" />
 
 
 
