@@ -1,7 +1,7 @@
 
 # Guide de réalisation du programme 1
 
-Voici un petit de réalisation du programme 1 de l'exercice formatif. Vous y verrez comment compléter la fonction requise pour le programme, comment compléter le programme et comment exécuter les tests de fonctions à la fin du _notebook_ à compléter.
+Voici un petit guide de réalisation du programme 1 de l'exercice formatif. Vous y verrez comment compléter la fonction requise pour le programme, comment compléter le programme et comment exécuter les tests de fonctions à la fin du _notebook_ à compléter.
 
 ## La cellule Importations
 
