@@ -14,9 +14,11 @@ La cellule Importation contient les importations nécessaires pour l'ensemble du
 La cellule Fonctions contient les fonctions à réaliser. Il faut exécuter la cellule à chaque fois qu'une fonction est modifiée avant de l'utiliser dans les programmes.
 
 Voici la fonction calculer_aire avant qu'elle soit réalisée:
+
 <img width="440" height="171" alt="image" src="assets/fonction_avant.png" />
 
 Voici la fonction calculer_aire après qu'elle soit réalisée:
+
 <img width="440" height="171" alt="image" src="assets/fonction_apres.png" />
 
 Une fois que la fonction est réalisée, il faut exécuter la cellule Fonctions afin que les modifications soient enregistrées en mémoire.
@@ -26,9 +28,11 @@ Une fois que la fonction est réalisée, il faut exécuter la cellule Fonctions 
 Les cellules de programme contiennent les programmes à réaliser.
 
 Voici le programme #1 avant sa réalisation:
+
 <img width="440" height="171" alt="image" src="assets/programme_avant.png" />
 
 Voici le programme #1 après sa réalisation:
+
 <img width="440" height="171" alt="image" src="assets/programme_apres.png" />
 
 ## Les cellules de tests
