@@ -86,7 +86,7 @@
 | 9.22                          | 9.17 9.20                     | Sections 2.1 à 2.3 inclusivement   |
 | 9.25                          |                               | Sections 3.1 à 3.4 inclusivement   |
 | 12.1 12.8                     | 12.4 12.5                     | Sections 4.1 à 4.4 inclusivement   |
-|                               |                               | Sections 5.1 à 5.3 inclusivement   |
+| 9.29 9.30 9.32                | 9.33 9.34 9.36                | Sections 5.1 à 5.3 inclusivement   |
 |                               |                               | Sections 6.1 à 6.5 inclusivement   |
 |                               |                               | Sections 7.1 à 7.2 inclusivement   |
 |                               |                               | Sections 8.1 à 8.3 inclusivement   |
@@ -98,7 +98,7 @@
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
 | Examen intra-2                |                               | Chapitre 10                      |
-| 9.29 9.30 9.32                | 9.33 9.34 9.36                |                                  |
+|                               |                               |                                  |
 
 ## Semaine 13
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
